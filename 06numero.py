@@ -7,3 +7,11 @@ print('O dobro de {} vale {}'.format(n, d))
 print('O triplo de {} vale {}'.format(n, t))
 print('A raiz quadrada de {} vale {}'.format(n, r))
 print('A raiz cubica de {} vale {:.2f}'.format(n, r1))
+
+
+
+
+
+
+# DESAFIO 006 (Aula 07)
+# Crie um algaritmo que leia um numero e mostre o seu dobro, triplo e a raiz quadrada e cubica
