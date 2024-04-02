@@ -21,4 +21,4 @@
    * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
 
-<a href=" https://github.com/Jul-LionProg/python.py/blob/main/007.py">007</a>
+<a href="#">007</a>
