@@ -8,5 +8,9 @@
 **DESAFIO 004:**
    * Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele.
 
+**DESAFIO 006:**
+   * Crie um algaritmo que leia um numero e mostre o seu dobro, triplo e a raiz quadrada e cubica
+
+
 **DESAFIO 007:**
    * Desanvolva um programa que leia as duas notas de um aluno calcule e mostre a sua média.
