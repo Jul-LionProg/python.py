@@ -12,7 +12,6 @@
    * Crie um algaritmo que leia um numero e mostre o seu dobro, triplo e a raiz quadrada e cubica
 
 **DESAFIO 007:** https://github.com/Jul-LionProg/python.py/blob/main/007.py  <link rel="#" href="007">
-<a href="https://github.com/Jul-LionProg">Jul_LionProg</a>
    * Desanvolva um programa que leia as duas notas de um aluno calcule e mostre a sua média.
 
 **DESAFIO 008:**
@@ -20,3 +19,6 @@
 
 **DESAFIO  009:**
    * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+
+<a href=" https://github.com/Jul-LionProg/python.py/blob/main/007.py">007</a>
