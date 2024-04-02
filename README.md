@@ -14,3 +14,6 @@
 
 **DESAFIO 007:**
    * Desanvolva um programa que leia as duas notas de um aluno calcule e mostre a sua média.
+
+**DESAFIO 008:**
+   * Escreva um programa que leia um valor em metros e o exiba convertido em centrimetros e milimetros. [KM, HM, DAM, M, DM, CM, MM]
