@@ -11,9 +11,11 @@
 **DESAFIO 006:**
    * Crie um algaritmo que leia um numero e mostre o seu dobro, triplo e a raiz quadrada e cubica
 
-
 **DESAFIO 007:**
    * Desanvolva um programa que leia as duas notas de um aluno calcule e mostre a sua média.
 
 **DESAFIO 008:**
    * Escreva um programa que leia um valor em metros e o exiba convertido em centrimetros e milimetros. [KM, HM, DAM, M, DM, CM, MM]
+
+**DESAFIO  009:**
+   * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
