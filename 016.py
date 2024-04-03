@@ -6,3 +6,7 @@ print('O valor digitado foi {} ea sua porção inteira é {} '.format(num, trunc
 '''   OU
 num = float(input('Digite um valor:' ))
 print('O valor digitado foi {} e a sua porção inteira é {}'.format(num,int(num))),'''
+
+
+# DESAFIO 016 (Aula 08)
+# Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
