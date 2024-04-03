@@ -20,5 +20,9 @@
 **DESAFIO  [009:](https://github.com/Jul-LionProg/python.py/blob/main/009.py)**
    * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
- **DESAFIO [009](https://github.com/Jul-LionProg/python.py/blob/main/010.py)**
-# Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros e pesos ela pode comprar
+ **DESAFIO [010](https://github.com/Jul-LionProg/python.py/blob/main/010.py)**
+   * Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros e pesos ela pode comprar
+
+ **DESAFIO [011](https://github.com/Jul-LionProg/python.py/blob/main/011.py)**
+    * Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta=la, sabendo que a  cada litro de tinta, pinta uma área de 2m².
+
