@@ -40,4 +40,7 @@
    * Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$ 0.15 por Km rodado.
 
 **DESAFIO [016:](https://github.com/Jul-LionProg/python.py/blob/main/016.py)**
-  * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+   * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+
+**DEFASIO [017:](https://github.com/Jul-LionProg/python.py/blob/main/017.py)**
+   * Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcula e mostre o comprimento da hipotenusa.
