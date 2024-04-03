@@ -27,10 +27,14 @@
    * Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta=la, sabendo que a  cada litro de tinta, pinta uma área de 2m².
 
  **DESAFIO [012:](https://github.com/Jul-LionProg/python.py/blob/main/012.py)**
-    * Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+   * Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 **DESAFIO [013:](https://github.com/Jul-LionProg/python.py/edit/main/013.py)**
    * Faça um algoritmo que leia o salário de um funcionario e mostre seu novo salário, com 30% de aumento.
 
 **DESAFIO [014:](https://github.com/Jul-LionProg/python.py/blob/main/014.py)**
    * Escreva um programa que converta uma temperatura digitada em °C e convertida em °F.
+
+**DESAFIO [015:](https://github.com/Jul-LionProg/python.py/blob/main/015.py)**
+   * Escreva um programa que  pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. 
+   * Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$ 0.15 por Km rodado.
