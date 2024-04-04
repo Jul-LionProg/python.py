@@ -43,7 +43,14 @@
    * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
 **DESAFIO [017:](https://github.com/Jul-LionProg/python.py/blob/main/017.py)**
+
    * Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcula e mostre o comprimento da hipotenusa.
 
 **DESAFIO [018:](https://github.com/Jul-LionProg/python.py/blob/main/018.py)**
    * Faça um programa que leia um angulo qualquer e mostre na tela o valor do seno, cosseno, tangente desse angulo.
+ 
+**DESAFIO [019:](https://github.com/Jul-LionProg/python.py/blob/main/019.py)**
+   * Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
+   * Faça um programa que aajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+
+     
