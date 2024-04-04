@@ -42,8 +42,8 @@
 **DESAFIO [016:](https://github.com/Jul-LionProg/python.py/blob/main/016.py)**
    * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
-**DEFASIO [017:](https://github.com/Jul-LionProg/python.py/blob/main/017.py)**
+**DESAFIO [017:](https://github.com/Jul-LionProg/python.py/blob/main/017.py)**
    * Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcula e mostre o comprimento da hipotenusa.
-   *  
-**DESEFIO [018:](https://github.com/Jul-LionProg/python.py/blob/main/018.py)**
+
+**DESAFIO [018:](https://github.com/Jul-LionProg/python.py/blob/main/018.py)**
    * Faça um programa que leia um angulo qualquer e mostre na tela o valor do seno, cosseno, tangente desse angulo.
