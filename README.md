@@ -74,3 +74,6 @@
 
 **DESAFIO [024:](https://github.com/Jul-LionProg/python.py/blob/main/024.py) ⬎**
    * Crie um programa que leia o nome da cidade e digo se o nome começa com "SANTO".
+
+**DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) ⬎**
+   * Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA" no nome.
