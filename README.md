@@ -77,3 +77,9 @@
 
 **DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) ⬎**
    * Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA" no nome.
+     
+**DESAFIO [026:](https://github.com/Jul-LionProg/python.py/blob/main/026.py) ⬎**
+   * Faça um programa que leia uma frase pelo teclado e mostre:
+   * * Quantos vezes aparece a leia "A".
+   * * Em que posição ela aparece a primeira vez.
+# * Em que posição ela aparece a última vez. 
