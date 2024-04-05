@@ -21,3 +21,4 @@ print('Unidade: {}'.format(u))
 # DESAFIO 023 (Aula 09)
 # Faça um programa que leia um numero de 0 a 9999 e mostra na tela os digitos separados
 # * EX: " Digite um numero: 1234"
+# * milhar: 1  Centena:2 Dezena:3 Unidade:4
