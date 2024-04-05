@@ -13,3 +13,6 @@ c = num // 100 % 10
 m = num // 1000 % 10
 print('Analisando o numero {}'.format(num))
 print('Milhar: {}'.format(m))
+print('Centena: {}'.format(c))
+print('Dezena: {}'.format(d))
+print('Unidade: {}'.format(u))
