@@ -99,3 +99,8 @@
    * Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem, Dizendo 
    * * "MULTADO".
    * * A multa vai custar R$7,00 por cada KM acima do limite.
+
+    
+**DESAFIO [030]:(https://github.com/Jul-LionProg/python.py/blob/main/030.py)  ⬎**
+   * Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
+
