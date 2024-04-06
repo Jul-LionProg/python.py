@@ -5,3 +5,7 @@ if resultado == 0:
 else:
     print('O número {} é IMPAR'.format(numero))
     
+
+    
+# DESAFIO 030 (Aula 010)
+# Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
