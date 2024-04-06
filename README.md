@@ -94,3 +94,8 @@
    * Escreva um programa que faça o computador "pensar em um n´umero inteiro entra" 0 e 6
    * * E peça o usuario tentar descobrir qual foi o número escolhido pelo computador.
    * * O programa devera escrever na tela se o usuaio VENCEU ou PERDEU.
+
+**DESAFIUO [029:](https://github.com/Jul-LionProg/python.py/blob/main/029.py) ⬎**
+   * Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem, Dizendo 
+   * * "MULTADO".
+   * * A multa vai custar R$7,00 por cada KM acima do limite.
