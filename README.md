@@ -90,4 +90,7 @@
    * * Primeiro = Ana
    * * Ùlitimo  = Souza
     
-       
+**DESAFIO [028:](https://github.com/Jul-LionProg/python.py/blob/main/028.py) ⬎**
+   * Escreva um programa que faça o computador "pensar em um n´umero inteiro entra" 0 e 6
+   * * E peça o usuario tentar descobrir qual foi o número escolhido pelo computador.
+   * * O programa devera escrever na tela se o usuaio VENCEU ou PERDEU.
