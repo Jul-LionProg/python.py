@@ -101,6 +101,6 @@
    * * A multa vai custar R$7,00 por cada KM acima do limite.
 
     
-**DESAFIO [030]:(https://github.com/Jul-LionProg/python.py/blob/main/030.py)  ⬎**
+**DESAFIO [030]:(https://github.com/Jul-LionProg/python.py/blob/main/030.py) ⬎**
    * Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
 
