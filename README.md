@@ -101,6 +101,9 @@
    * * A multa vai custar R$7,00 por cada KM acima do limite.
 
     
-**DESAFIO [030]:(https://github.com/Jul-LionProg/python.py/blob/main/030.py) ⬎**
+**DESAFIO [030:](https://github.com/Jul-LionProg/python.py/blob/main/030.py) ⬎**
    * Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
 
+**DESAFIO [031:]() ⬎**
+   * Desenvolva um programa que pergunte a distancia de uma viagem em Km.
+   * Calcule o preço da passagem,cobrando R$0,50 por Km para viagens até 200Km e R$0,45 para viagens mais longas. 
