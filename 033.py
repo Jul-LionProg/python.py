@@ -10,3 +10,5 @@ if c < a and c < b:
 # Verificando o maior preço
 maior = a
 if b > a and b > c:
+    maior = b
+if c > a and c > b:
