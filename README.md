@@ -99,11 +99,14 @@
    * Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem, Dizendo 
    * * "MULTADO".
    * * A multa vai custar R$7,00 por cada KM acima do limite.
-
-    
+   
 **DESAFIO [030:](https://github.com/Jul-LionProg/python.py/blob/main/030.py) ⬎ ⬎ ⬎**
    * Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
 
 **DESAFIO [031:](https://github.com/Jul-LionProg/python.py/blob/main/031.py) ⬎ ⬎ ⬎**
    * Desenvolva um programa que pergunte a distancia de uma viagem em Km.
    * Calcule o preço da passagem,cobrando R$0,50 por Km para viagens até 200Km e R$0,45 para viagens mais longas. 
+
+**DESAFIO [032:](https://github.com/Jul-LionProg/python.py/blob/main/032.py) ⬎ ⬎ ⬎**
+   * Faça um programa que leia um ano qualquer e mostre se ele é BISEXTO.
+ 
