@@ -8,3 +8,5 @@ if b < a and b < c:
 if c < a and c < b:
     menor = c
 # Verificando o maior preço
+maior = a
+if b > a and b > c:
