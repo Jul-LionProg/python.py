@@ -7,3 +7,7 @@ if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
 else:
     print('O ano {} NAO é BISSEXTO'.format(ano))
  
+
+ # DESAFIO 032 (Aula 010)
+ # Faça um programa que leia um ano qualquer e mostre se ele é BISEXTO.
+ 
