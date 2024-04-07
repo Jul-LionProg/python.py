@@ -110,3 +110,7 @@
 **DESAFIO [032:](https://github.com/Jul-LionProg/python.py/blob/main/032.py) ⬎ ⬎ ⬎**
    * Faça um programa que leia um ano qualquer e mostre se ele é BISEXTO.
  
+**DEAFIO [033:](https://github.com/Jul-LionProg/python.py/blob/main/033.py) ⬎ ⬎ ⬎**
+   * Faça um programa que leia trẽs números e mostre qual é o MAIOR e o MENOR.
+
+     
