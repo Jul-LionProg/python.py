@@ -12,3 +12,5 @@ maior = a
 if b > a and b > c:
     maior = b
 if c > a and c > b:
+    maior = c
+print('O MENOR valor digitado foi {}'.format(menor))
