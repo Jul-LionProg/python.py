@@ -113,4 +113,7 @@
 **DEAFIO [033:](https://github.com/Jul-LionProg/python.py/blob/main/033.py) ⬎ ⬎ ⬎**
    * Faça um programa que leia trẽs números e mostre qual é o MAIOR e o MENOR.
 
-     
+**DESAFIO [034:](https://github.com/Jul-LionProg/python.py/blob/main/034.py) ⬎ ⬎ ⬎**
+   * Escreva um programa que pergunte o salário de um funcionario e calcule o valor do seu aumento.
+   * * Para salários superiores a 1.250,00 calcule um aumento de 10%.
+   * * Para salários inferior ou iguais, o aumento é de 15%.    
