@@ -19,4 +19,4 @@ print('O MAIOR valor digitado foi {}'.format(maior))
 
 
 # DEAFIO 033 (Aula 010)
-# Faça um programa que leia trẽs números e mostre qual é o MAIOR e o MENOR.
+# Faça um programa que leia tres números e mostre qual é o MAIOR e o MENOR.
