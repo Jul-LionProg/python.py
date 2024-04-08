@@ -14,3 +14,10 @@ elif idade > 18:
     anos = atual - saldo
     print('Seu alistamento foi em {}'.format(anos))
  
+
+    
+    
+# DESAFIO 039 (Aula 012)
+# Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade
+# Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se ja passou do tempo do alistamento
+# Seu programa tambem devera mostra o tempo que falta ou que passou do prazo.
