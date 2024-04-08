@@ -130,6 +130,6 @@
 
 **DESAFIO [037:](https://github.com/Jul-LionProg/python.py/blob/main/037.py) ⬎ ⬎ ⬎**
    * Escrevsa um programa que leia um numero inteiro qualquer e peça para o usuario Escolher qual sera a base de conversão:
-   * *  1 para BINARIO
-   * *  2 para OCTAL
-   * *  3 para HEXADECIMAL
+   * *  1 Para BINARIO
+   * *  2 Para OCTAL
+   * *  3 Para HEXADECIMAL
