@@ -8,3 +8,5 @@ if idade == 18:
 elif idade < 18:
     saldo = 18 - idade
     print('Ainda falta {} anos para o alistamento'.format(saldo))
+elif idade > 18:
+    saldo = idade - 18
