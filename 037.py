@@ -5,3 +5,5 @@ print(''' Escolha uma das bases para conversão:
 [ 3 ] Converter para HEXADECIMAL ''')
 opçao = int(input('Sua opção: '))
 if opçao == 1:
+    print('{} convertido para BINARIO é igual a {}'.format(num, bin(num)[2:]))
+elif opçao == 2:
