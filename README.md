@@ -121,7 +121,7 @@
 **DESAFIO [035:](https://github.com/Jul-LionProg/python.py/blob/main/035.py) ⬎ ⬎ ⬎**
    * Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario se elas podem ou não formar um triangulo.
 
-**DESAFIO [036:]() ⬎ ⬎ ⬎**
+**DESAFIO [036:](https://github.com/Jul-LionProg/python.py/blob/main/036.py) ⬎ ⬎ ⬎**
    * Escreva um programa para aprovar o emprestimo bancario pra a compra de uma casa.
    * Pergutne o Valor da casa o salario do comprador e em quanto anos ele vai pagar.
    * Aprestação mensal não pode exceder 30% do salario ou então o emprestimo sera negado.
