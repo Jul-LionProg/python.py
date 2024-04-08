@@ -13,3 +13,11 @@ elif opçao == 3:
 else:
     print('Opção invalida. Tente novamente:')
   
+
+
+
+# DESAFIO 037 (Aula 012)
+# Escrevsa um programa que leia um numero inteiro qualquer e peça para o usuario Escolher qual sera a base de conversão:
+''' - 1 para BINARIO
+    - 2 para OCTAL
+    - 3 para HEXADECIMAL'''
