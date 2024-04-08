@@ -10,3 +10,7 @@ else:
     print('Empréstimo \033[31mNEGADO\033[m!')
 
 
+# DESAFIO 036 (Aula 012)
+# Escreva um programa para aprovar o emprestimo bancario pra a compra de uma casa.
+# Pergutne o Valor da casa o salario do comprador e em quanto anos ele vai pagar.
+# Aprestação mensal não pode exceder 30% do salario ou então o emprestimo sera negado.
