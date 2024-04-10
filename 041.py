@@ -8,3 +8,5 @@ if idade <= 9:
 elif idade <= 14:
     print('Classificação: INFANTIL')
 elif idade <= 19:
+    print('Classificação: JUNIOR')
+elif idade <= 25:
