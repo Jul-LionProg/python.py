@@ -14,3 +14,8 @@ elif idade <= 25:
 else:
     print('Classificação: MASTER')
 
+# DESAFIO 041 (Aula 012)
+# A confederação Nacional de Nataçaõ preciso de um programa que leia o anos de nascimento de um atlteta e mostre sua categoria de acordo com sua idade:
+'''  - Ate 9 anos: MIRIN             - Ate 19 anos: JUNIOR
+     - Ate 14 anos: INFANTIL         - Ate 25 anos: SENIOR
+     - Acima: MASTER '''
