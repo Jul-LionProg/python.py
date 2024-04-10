@@ -149,3 +149,8 @@
    * * Media entre 5.0 e 6.9: RECUPERAÇÃO
    * * Media 7.0 ou superior: APROVADO'''
        
+**DESAFIO [041:](https://github.com/Jul-LionProg/python.py/blob/main/041.py) ⬎ ⬎ ⬎**
+   * A confederação Nacional de Nataçaõ preciso de um programa que leia o anos de nascimento de um atlteta e mostre sua categoria de acordo com sua idade:
+   * * - Ate 9 anos: MIRIN             - Ate 19 anos: JUNIOR
+   * * - Ate 14 anos: INFANTIL         - Ate 25 anos: SENIOR
+   * * - Acima: MASTER '''
