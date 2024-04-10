@@ -143,3 +143,9 @@
    * * Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se ja passou do tempo do alistamento
    * * Seu programa tambem devera mostra o tempo que falta ou que passou do prazo.
   
+**DESAFIO [040:](https://github.com/Jul-LionProg/python.py/blob/main/040.py) ⬎ ⬎ ⬎**
+   * * Crie um programa qeu leia duas notas de um alunoa e calcule sua media mostrando uma mensagem no final de acordo co a madia atinginda:
+   * * Media abaixo de 5.0: REPROVADO
+   * * Media entre 5.0 e 6.9: RECUPERAÇÃO
+   * * Media 7.0 ou superior: APROVADO'''
+       
