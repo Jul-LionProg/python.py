@@ -7,3 +7,6 @@ if  7 > media >= 5:
 elif media >= 5:
     print('O aluno esta REPROVADO')
 elif media >= 7:
+    print('O aluno esta APROVADO')
+
+
