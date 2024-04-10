@@ -10,3 +10,8 @@ elif media >= 7:
     print('O aluno esta APROVADO')
 
 
+# DESAFIO 040 (aLUNA 012)
+# Crie um programa qeu leia duas notas de um alunoa e calcule sua media mostrando uma mensagem no final de acordo co a madia atinginda:
+''' - Media abaixo de 5.0: REPROVADO
+    - Media entre 5.0 e 6.9: RECUPERAÇÃO
+    - Media 7.0 ou superior: APROVADO'''
