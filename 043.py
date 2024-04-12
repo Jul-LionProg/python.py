@@ -9,7 +9,9 @@ elif 25 <= imc < 30:
 elif 30 <= imc < 40:
     print('Voce esta em SOBREPESO')
 elif imc >= 40:
-
+    print('Voce esta em OBESIDADE MORBIDA, cuidado!')
+    
+  
 
     
 # DESAFIO 043 (Aula 012)
