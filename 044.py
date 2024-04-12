@@ -10,3 +10,5 @@ if opçao == 1:
 elif opçao == 2:
     total = preço - (preço * 5 / 100)
 elif opçao == 3:
+    total = preço
+    parcela = total / 2
