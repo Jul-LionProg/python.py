@@ -6,3 +6,5 @@ print('''FORMAS DE PAGAMENTO
 [ 4 ] 3x ou mais C/juros''')
 opçao = int(input('Qual a forma de pagamanto? '))
 if opçao == 1:
+    total = preço - (preço * 10 / 100)
+elif opçao == 2:
