@@ -8,3 +8,5 @@ opçao = int(input('Qual a forma de pagamanto? '))
 if opçao == 1:
     total = preço - (preço * 10 / 100)
 elif opçao == 2:
+    total = preço - (preço * 5 / 100)
+elif opçao == 3:
