@@ -151,8 +151,8 @@
        
 **DESAFIO [041:](https://github.com/Jul-LionProg/python.py/blob/main/041.py) ⬎ ⬎ ⬎**
    * A confederação Nacional de Nataçaõ preciso de um programa que leia o anos de nascimento de um atlteta e mostre sua categoria de acordo com sua idade:
-   * * - Ate 9 anos: MIRIN             * * - Ate 19 anos: JUNIOR
-   * * - Ate 14 anos: INFANTIL         * * - Ate 25 anos: SENIOR
+   * * - Ate 9 anos: MIRIN            - - - Ate 19 anos: JUNIOR
+   * * - Ate 14 anos: INFANTIL         - - - Ate 25 anos: SENIOR
    * * - Acima: MASTER '''
 
 **DESAFIO [042:](https://github.com/Jul-LionProg/python.py/blob/main/042.py) ⬎ ⬎ ⬎**
@@ -164,7 +164,7 @@
        
 **DESAFIO [043:](https://github.com/Jul-LionProg/python.py/blob/main/043.py) ⬎ ⬎ ⬎**
    * Desenvolva um a logica que leia o peso ea altura se uma pessoa calculando o sei IMC e mostre seu status de acordo com a tabela abaixo.
-   * * - Abaixo de 18.5: Abaixo de peso     * * - 25 ate 30: Sobrepeso
-   * * - Entre 18.5 e 25: Peso ideal        * * - 30 ate 40: Obesidad     * * - Acima de 40: Obesidade Morbida'''
+   * * - Abaixo de 18.5: Abaixo de peso     - - - 25 ate 30: Sobrepeso
+   * * - Entre 18.5 e 25: Peso ideal        - - - 30 ate 40: Obesidad     - - - Acima de 40: Obesidade Morbida'''
 
 
