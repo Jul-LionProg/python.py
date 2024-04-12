@@ -20,3 +20,11 @@ elif opçao == 4:
    print('Sua compra sera parcelada em {}x de R${:.2f} COM JUROS'.format(totalparc, parcela))
 print('Sua compra de R${:.2f} vai custar R${:.2f} no fi'.format(preço, total))
 
+
+
+# DESAFIO 044 (Aula 012)
+# Elabore um programa que calcule o valor a ser pago pro um produto. Considerando o seu preço normal e condição de pagamento:
+'''- A vista dinherio / pix:       
+   - Em ate 2x no cartão: normal 10% de desconto
+   - 3x ou mais no cartão: 20% de juros
+   - A vista no cartão: 5% de desconto.'''
