@@ -7,8 +7,11 @@ if imc < 18.5:
 elif 25 <= imc < 30:
     print('PARABENS! Voce esta na faixa de peso normal')
 elif 30 <= imc < 40:
+    print('Voce esta em SOBREPESO')
+elif imc >= 40:
 
 
+    
 # DESAFIO 043 (Aula 012)
 # Desenvolva um a logica que leia o peso ea altura se uma pessoa calculando o sei IMC e mostre seu status de acordo com a tabela abaixo.
 '''- Abaixo de 18.5: Abaixo de peso     - 25 ate 30: Sobrepeso
