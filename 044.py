@@ -12,3 +12,5 @@ elif opçao == 2:
 elif opçao == 3:
     total = preço
     parcela = total / 2
+    print('Sua compra sera parcelada em 2x de R${:.2f} SEM JUROS'.format(parcela))
+elif opçao == 4:
