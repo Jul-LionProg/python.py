@@ -1,5 +1,9 @@
 peso = float(input('Qual é seu peso? (Kg)'))
 altura = float(input('Qual é sua altura? (m) '))
+imc = peso / (altura **2)
+print('O IMC dessa pessoa é de {:.1f}'.format(imc))
+
+
 
 
 # DESAFIO 043 (Aula 012)
