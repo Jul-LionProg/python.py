@@ -168,8 +168,8 @@
 
 **DESAFIO [044:](https://github.com/Jul-LionProg/python.py/blob/main/044.py) ⬎ ⬎ ⬎**
    * Elabore um programa que calcule o valor a ser pago pro um produto. Considerando o seu preço normal e condição de pagamento:
-   * *- A vista dinherio / pix:       
-   * *- Em ate 2x no cartão: normal 10% de desconto
-   * *- 3x ou mais no cartão: 20% de juros
-   * *- A vista no cartão: 5% de desconto.'''
+   * * - A vista dinherio / Pix:       
+   * * - Em ate 2x no cartão: normal 10% de desconto
+   * * - 3x ou mais no cartão: 20% de juros
+   * * - A vista no cartão: 5% de desconto.
 
