@@ -4,7 +4,9 @@ imc = peso / (altura **2)
 print('O IMC dessa pessoa é de {:.1f}'.format(imc))
 if imc < 18.5:
     print('Voce esta ABAIXO DE PESO normal')
-
+elif 25 <= imc < 30:
+    print('PARABENS! Voce esta na faixa de peso normal')
+elif 30 <= imc < 40:
 
 
 # DESAFIO 043 (Aula 012)
