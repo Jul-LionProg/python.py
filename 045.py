@@ -40,3 +40,6 @@ elif computador == 2: # Computador jogo Tesoura
     elif jogador == 1:
         print('Computador Vence')
     elif jogador == 2:
+        print('Empate')
+    else:
+        print(' Jogada Invalida')
