@@ -1,8 +1,11 @@
 # Anotações do Python #📚
 
 **Neste arquivo você encontrará dados referentes a pasta dedicada a estudos:**
-
-**DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py)🔴 ⬎ ⬎ ⬎**
+   * Nela a livros com niveis de dificuldade basicas:
+   * 📗 == BASICO
+   * 📙 == INTERMEDIARIO
+   * 📕 == AVANÇADO
+**DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py)📗 ⬎ ⬎ ⬎**
    * Crie um programa que escreva "Ola Mundo" na tela.
 
 **DESAFIO [004:](https://github.com/Jul-LionProg/python.py/blob/main/004.py) 📗⬎ ⬎ ⬎**
