@@ -38,3 +38,5 @@ elif computador == 2: # Computador jogo Tesoura
     if jogador == 0:
         print('Jogador Vence')
     elif jogador == 1:
+        print('Computador Vence')
+    elif jogador == 2:
