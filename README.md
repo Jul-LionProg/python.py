@@ -7,7 +7,7 @@
    * 📕 == AVANÇADO
 ---------------------------------------------------------------------------------------------------------------------
      
-**DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py)📗 ⬎ ⬎ ⬎**
+**DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py) 📗 ⬎ ⬎ ⬎**
    * Crie um programa que escreva "Ola Mundo" na tela.
 
 **DESAFIO [004:](https://github.com/Jul-LionProg/python.py/blob/main/004.py) 📗⬎ ⬎ ⬎**
@@ -171,10 +171,15 @@
    * * - Abaixo de 18.5: Abaixo de peso     - - - 25 ate 30: Sobrepeso
    * * - Entre 18.5 e 25: Peso ideal        - - - 30 ate 40: Obesidad     - - - Acima de 40: Obesidade Morbida'''
 
-**DESAFIO [044:](https://github.com/Jul-LionProg/python.py/blob/main/044.py) ⬎ ⬎ ⬎**
+**DESAFIO [044:](https://github.com/Jul-LionProg/python.py/blob/main/044.py) 📕⬎ ⬎ ⬎**
    * Elabore um programa que calcule o valor a ser pago pro um produto. Considerando o seu preço normal e condição de pagamento:
    * * - A vista dinherio / Pix:       
    * * - Em ate 2x no cartão: normal 10% de desconto
    * * - 3x ou mais no cartão: 20% de juros
    * * - A vista no cartão: 5% de desconto.
 
+    
+    
+**DESAFIO [045:](https://github.com/Jul-LionProg/python.py/blob/main/045.py) 📕⬎ ⬎ ⬎**
+   * Crie um programa que faça o computador jogar JOKENPO com  VOCE!.
+  
