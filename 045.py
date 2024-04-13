@@ -43,3 +43,10 @@ elif computador == 2: # Computador jogo Tesoura
         print('Empate')
     else:
         print(' Jogada Invalida')
+
+
+    
+    
+# DESAFIO 045 (Aula 012)
+# Crie um programa que faça o computador jogar JOKENPO com  VC.
+  
