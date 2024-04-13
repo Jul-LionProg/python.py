@@ -8,3 +8,5 @@ print('''Sua opção:
 [ 3 ] Tesoura''')
 jogador =  int(input('Qual é a sua jogado?'))
 print('JO!')
+sleep(1)
+print('KEN!')
