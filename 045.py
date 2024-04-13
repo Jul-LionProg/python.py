@@ -6,3 +6,5 @@ print('''Sua opção:
 [ 1 ] Pedra
 [ 2 ] Papel
 [ 3 ] Tesoura''')
+jogador =  int(input('Qual é a sua jogado?'))
+print('JO!')
