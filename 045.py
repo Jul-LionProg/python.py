@@ -18,3 +18,5 @@ print('Jogador JOGOU {}'.format(itens[jogador]))
 print('-=' * 11)
 if computador == 0: # PC joga Pedra
     if jogador == 0:
+        print('Empate')
+    elif jogador == 1:
