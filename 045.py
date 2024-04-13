@@ -29,3 +29,5 @@ elif computador == 1: # Computador Jogou Papel
     if jogador == 0:
         print('Computador Vence')
     elif jogador == 1:
+        print('Empate')
+    elif jogador == 2:
