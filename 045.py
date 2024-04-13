@@ -22,3 +22,5 @@ if computador == 0: # PC joga Pedra
     elif jogador == 1:
        print('jogador Vence')
     elif jogador == 2:
+        print('Computador Vence')
+    else:
