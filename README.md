@@ -160,7 +160,7 @@
    * * - Ate 14 anos: INFANTIL         - - - Ate 25 anos: SENIOR
    * * - Acima: MASTER '''
 
-**DESAFIO [042:](https://github.com/Jul-LionProg/python.py/blob/main/042.py) ⬎ ⬎ ⬎**
+**DESAFIO [042:](https://github.com/Jul-LionProg/python.py/blob/main/042.py) 📙⬎ ⬎ ⬎**
    * Refaça o DESAFIO 035 dos triangulos acrescentando o recurso de mostrar que tipo de triangulo sera formado:
    * * ESCALENDO:
    * * ISOSCELES:
