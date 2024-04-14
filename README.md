@@ -112,7 +112,7 @@
    * Desenvolva um programa que pergunte a distancia de uma viagem em Km.
    * Calcule o preço da passagem,cobrando R$0,50 por Km para viagens até 200Km e R$0,45 para viagens mais longas. 
 
-**DESAFIO [032:](https://github.com/Jul-LionProg/python.py/blob/main/032.py) ⬎ ⬎ ⬎**
+**DESAFIO [032:](https://github.com/Jul-LionProg/python.py/blob/main/032.py) 📕⬎ ⬎ ⬎**
    * Faça um programa que leia um ano qualquer e mostre se ele é BISEXTO.
  
 **DESAFIO [033:](https://github.com/Jul-LionProg/python.py/blob/main/033.py) ⬎ ⬎ ⬎**
