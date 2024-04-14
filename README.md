@@ -72,7 +72,7 @@
    * * Quantas letras ao todo (sem considerar espaços).
    * * Quantas letras tem o primeiro nome.
 
-**DESAFIO [023:](https://github.com/Jul-LionProg/python.py/blob/main/023.py) ⬎ ⬎ ⬎**
+**DESAFIO [023:](https://github.com/Jul-LionProg/python.py/blob/main/023.py) 📗⬎ ⬎ ⬎**
    * Faça um programa que leia um numero de 0 a 9999 e mostra na tela os digitos separados.
    * * EX: " Digite um numero: 1234"
    * * Milhar: 1, Centena: 2, Dezena: 3, Unidade: 4
