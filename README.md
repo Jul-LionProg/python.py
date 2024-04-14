@@ -83,32 +83,32 @@
 **DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) 📗⬎ ⬎ ⬎**
    * Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA" no nome.
      
-**DESAFIO [026:](https://github.com/Jul-LionProg/python.py/blob/main/026.py) ⬎ ⬎ ⬎**
+**DESAFIO [026:](https://github.com/Jul-LionProg/python.py/blob/main/026.py) 📙⬎ ⬎ ⬎**
    * Faça um programa que leia uma frase pelo teclado e mostre:
    * * Quantos vezes aparece a leia "A".
    * * Em que posição ela aparece a primeira vez.
    * * Em que posição ela aparece a última vez. 
 
-**DESAFIO [027:](https://github.com/Jul-LionProg/python.py/blob/main/027.py) ⬎ ⬎ ⬎**
+**DESAFIO [027:](https://github.com/Jul-LionProg/python.py/blob/main/027.py) 📙⬎ ⬎ ⬎**
    * Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
    * * EX: Ana Maria de Souza
    * * Primeiro = Ana
    * * Ùlitimo  = Souza
     
-**DESAFIO [028:](https://github.com/Jul-LionProg/python.py/blob/main/028.py) ⬎ ⬎ ⬎**
+**DESAFIO [028:](https://github.com/Jul-LionProg/python.py/blob/main/028.py) 📕⬎ ⬎ ⬎**
    * Escreva um programa que faça o computador "pensar em um n´umero inteiro entra" 0 e 6
    * * E peça o usuario tentar descobrir qual foi o número escolhido pelo computador.
    * * O programa devera escrever na tela se o usuaio VENCEU ou PERDEU.
 
-**DESAFIUO [029:](https://github.com/Jul-LionProg/python.py/blob/main/029.py) ⬎ ⬎ ⬎**
+**DESAFIUO [029:](https://github.com/Jul-LionProg/python.py/blob/main/029.py) 📕⬎ ⬎ ⬎**
    * Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem, Dizendo 
    * * "MULTADO".
    * * A multa vai custar R$7,00 por cada KM acima do limite.
    
-**DESAFIO [030:](https://github.com/Jul-LionProg/python.py/blob/main/030.py) ⬎ ⬎ ⬎**
+**DESAFIO [030:](https://github.com/Jul-LionProg/python.py/blob/main/030.py) 📗⬎ ⬎ ⬎**
    * Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
 
-**DESAFIO [031:](https://github.com/Jul-LionProg/python.py/blob/main/031.py) ⬎ ⬎ ⬎**
+**DESAFIO [031:](https://github.com/Jul-LionProg/python.py/blob/main/031.py) 📙⬎ ⬎ ⬎**
    * Desenvolva um programa que pergunte a distancia de uma viagem em Km.
    * Calcule o preço da passagem,cobrando R$0,50 por Km para viagens até 200Km e R$0,45 para viagens mais longas. 
 
