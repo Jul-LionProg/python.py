@@ -58,15 +58,15 @@
    * Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
    * Faça um programa que aajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 
-**DESAFIO [020:](https://github.com/Jul-LionProg/python.py/blob/main/020.py) ⬎ ⬎ ⬎**
+**DESAFIO [020:](https://github.com/Jul-LionProg/python.py/blob/main/020.py) 📙⬎ ⬎ ⬎**
    * O mesmo professor do desafior anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
    * Faça um programa que leia o nome dos alunose mostre a ordem sorteada.
      
-**DEFASIO [021:](https://github.com/Jul-LionProg/python.py/blob/main/021.py) ⬎ ⬎ ⬎**
+**DEFASIO [021:](https://github.com/Jul-LionProg/python.py/blob/main/021.py) 📕⬎ ⬎ ⬎**
    * Faça um programa em Python que abra uma arquivo com audio em MP3.
    * Estudar o 'pygame'  mais utilizado para jogos mais da pra fazer tipo um despertador.
      
-**DESAFIO [022:](https://github.com/Jul-LionProg/python.py/blob/main/022.py) ⬎ ⬎ ⬎**
+**DESAFIO [022:](https://github.com/Jul-LionProg/python.py/blob/main/022.py) 📙⬎ ⬎ ⬎**
    * Crie um programa que leia o nome completo de uma pessoa e mostre:
    * * O nome com todas as letras mausculas e minusculas.
    * * Quantas letras ao todo (sem considerar espaços).
