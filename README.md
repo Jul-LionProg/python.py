@@ -137,13 +137,13 @@
    * *  2 Para OCTAL
    * *  3 Para HEXADECIMAL
 
-**DESAFIO [038:](https://github.com/Jul-LionProg/python.py/blob/main/038.py) ⬎ ⬎ ⬎**
+**DESAFIO [038:](https://github.com/Jul-LionProg/python.py/blob/main/038.py) 📗⬎ ⬎ ⬎**
    * Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na tela uma mensagem:
    * * O Primeiro valor ẽ MAIOR
    * * O Segundo valor ẽ MAIOR
    * * Não existe valor maior os dois são IGUAIS.
 
-**DESAFIO [039:](https://github.com/Jul-LionProg/python.py/blob/main/039.py) ⬎ ⬎ ⬎**
+**DESAFIO [039:](https://github.com/Jul-LionProg/python.py/blob/main/039.py) 📕📕⬎ ⬎ ⬎**
    * * Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade
    * * Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se ja passou do tempo do alistamento
    * * Seu programa tambem devera mostra o tempo que falta ou que passou do prazo.
