@@ -77,10 +77,10 @@
    * * EX: " Digite um numero: 1234"
    * * Milhar: 1, Centena: 2, Dezena: 3, Unidade: 4
 
-**DESAFIO [024:](https://github.com/Jul-LionProg/python.py/blob/main/024.py) ⬎ ⬎ ⬎**
+**DESAFIO [024:](https://github.com/Jul-LionProg/python.py/blob/main/024.py) 📗⬎ ⬎ ⬎**
    * Crie um programa que leia o nome da cidade e digo se o nome começa com "SANTO".
 
-**DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) ⬎ ⬎ ⬎**
+**DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) 📗⬎ ⬎ ⬎**
    * Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA" no nome.
      
 **DESAFIO [026:](https://github.com/Jul-LionProg/python.py/blob/main/026.py) ⬎ ⬎ ⬎**
