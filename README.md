@@ -123,7 +123,7 @@
    * * Para salários superiores a 1.250,00 calcule um aumento de 10%.
    * * Para salários inferior ou iguais, o aumento é de 15%.    
 
-**DESAFIO [035:](https://github.com/Jul-LionProg/python.py/blob/main/035.py) ⬎ ⬎ ⬎**
+**DESAFIO [035:](https://github.com/Jul-LionProg/python.py/blob/main/035.py) 📙⬎ ⬎ ⬎**
    * Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario se elas podem ou não formar um triangulo.
 
 **DESAFIO [036:](https://github.com/Jul-LionProg/python.py/blob/main/036.py) ⬎ ⬎ ⬎**
