@@ -22,7 +22,7 @@
 **DESAFIO [008:](https://github.com/Jul-LionProg/python.py/blob/main/008.py) 📗⬎ ⬎ ⬎**
    * Escreva um programa que leia um valor em metros e o exiba convertido em centrimetros e milimetros. [KM, HM, DAM, M, DM, CM, MM].
 
-**DESAFIO  [009:](https://github.com/Jul-LionProg/python.py/blob/main/009.py) 📙⬎ ⬎ ⬎**
+**DESAFIO  [009:](https://github.com/Jul-LionProg/python.py/blob/main/009.py) 📙 ⬎ ⬎ ⬎**
    * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
  **DESAFIO [010:](https://github.com/Jul-LionProg/python.py/blob/main/010.py) 📙⬎ ⬎ ⬎**
