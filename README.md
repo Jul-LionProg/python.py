@@ -25,7 +25,7 @@
 **DESAFIO  [009:](https://github.com/Jul-LionProg/python.py/blob/main/009.py) 📙 ⬎ ⬎ ⬎**
    * Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
- **DESAFIO [010:](https://github.com/Jul-LionProg/python.py/blob/main/010.py) 📙⬎ ⬎ ⬎**
+ **DESAFIO [010:](https://github.com/Jul-LionProg/python.py/blob/main/010.py) 📙 ⬎ ⬎ ⬎**
    * Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros e pesos ela pode comprar.
 
  **DESAFIO [011:](https://github.com/Jul-LionProg/python.py/blob/main/011.py) 📗⬎ ⬎ ⬎**
