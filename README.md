@@ -19,7 +19,7 @@
 **DESAFIO [007:](https://github.com/Jul-LionProg/python.py/blob/main/007.py) 📗 ⬎ ⬎ ⬎**
    * Desanvolva um programa que leia as duas notas de um aluno calcule e mostre a sua média.
 
-**DESAFIO [008:](https://github.com/Jul-LionProg/python.py/blob/main/008.py) 📗⬎ ⬎ ⬎**
+**DESAFIO [008:](https://github.com/Jul-LionProg/python.py/blob/main/008.py) 📗 ⬎ ⬎ ⬎**
    * Escreva um programa que leia um valor em metros e o exiba convertido em centrimetros e milimetros. [KM, HM, DAM, M, DM, CM, MM].
 
 **DESAFIO  [009:](https://github.com/Jul-LionProg/python.py/blob/main/009.py) 📙 ⬎ ⬎ ⬎**
