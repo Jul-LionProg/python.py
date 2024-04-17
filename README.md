@@ -177,9 +177,9 @@
    * * - Em ate 2x no cartão: normal 10% de desconto
    * * - 3x ou mais no cartão: 20% de juros
    * * - A vista no cartão: 5% de desconto.
-
-    
-    
+  
 **DESAFIO [045:](https://github.com/Jul-LionProg/python.py/blob/main/045.py) 📕📕📕⬎ ⬎ ⬎**
    * Crie um programa que faça o computador jogar JOKENPO com  VOCE!.
   
+**DESAFIO [046:](https://github.com/Jul-LionProg/python.py/blob/main/046.py) 📕⬎ ⬎ ⬎**
+   * Faça um programa que mostre na tela uma contagem regressiva para ano novo de 10 a 0 com pausa de 0.9 segundos
