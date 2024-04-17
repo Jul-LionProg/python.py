@@ -183,3 +183,6 @@
   
 **DESAFIO [046:](https://github.com/Jul-LionProg/python.py/blob/main/046.py) 📕⬎ ⬎ ⬎**
    * Faça um programa que mostre na tela uma contagem regressiva para ano novo de 10 a 0 com pausa de 0.9 segundos
+
+**DESAFIO [047:](https://github.com/Jul-LionProg/python.py/blob/main/047.py) 📕⬎ ⬎ ⬎**
+   * Crie um programa que mostre na tela todos os numeros PARES que estão no intervalo entre 1 e 50.
