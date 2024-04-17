@@ -192,3 +192,6 @@
 
 **DESAFIO [049:](https://github.com/Jul-LionProg/python.py/blob/main/049.py) 📗⬎ ⬎ ⬎**
    * Refaça o (DESAIO 009) Só que agora utilisando LOÇO [FOR].
+
+**DESAFIO [050:](https://github.com/Jul-LionProg/python.py/blob/main/050.py) 📙⬎ ⬎ ⬎**
+   * Desenvolva um programa que leia 6 numeros int e mostre a soma apenas daqueles que forem PAR. Se o valor for IMPAR. Desconsidere.
