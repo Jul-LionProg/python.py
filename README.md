@@ -187,5 +187,5 @@
 **DESAFIO [047:](https://github.com/Jul-LionProg/python.py/blob/main/047.py) 📕⬎ ⬎ ⬎**
    * Crie um programa que mostre na tela todos os numeros PARES que estão no intervalo entre 1 e 50.
 
-##DESAFIO [048:]() 📙⬎ ⬎ ⬎**
+##DESAFIO [048:](https://github.com/Jul-LionProg/python.py/blob/main/048.py) 📙⬎ ⬎ ⬎**
 # Faça um programa que calcule a soma entre todos os numeros impares que são multiplos de 3 e que se encontram no intervalo de 1 a 500.
