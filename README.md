@@ -195,3 +195,9 @@
 
 **DESAFIO [050:](https://github.com/Jul-LionProg/python.py/blob/main/050.py) 📙⬎ ⬎ ⬎**
    * Desenvolva um programa que leia 6 numeros int e mostre a soma apenas daqueles que forem PAR. Se o valor for IMPAR. Desconsidere.
+
+**DESAFIO [051:]()**
+   * Desenvolva um programa que leia o PRIMEIRO TERMO e a RAZAO de uma (PA)
+   * * No final mostre os 10 primeiros termos dessa progressão.
+   * * Termo = contar 0 a ....
+   * * PA = pular de 2 em 2 ou (4 em 4) (7 em 7) etcs...
