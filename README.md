@@ -201,3 +201,7 @@
    * * No final mostre os 10 primeiros termos dessa progressão.
    * * Termo = contar 0 a ....
    * * PA = pular de 2 em 2 ou (4 em 4) (7 em 7) etcs...
+
+
+**DESAFIO [052](https://github.com/Jul-LionProg/python.py/blob/main/052.py) 📕⬎ ⬎ ⬎**
+   * Faça um programa que leia um número inteiro e diga se ele é ou não primo.
