@@ -11,3 +11,4 @@ print('\n\033[m0 número {} foi divisivel {} vezes'.format(num,tot))
 if tot == 2:
     print('E por isso ele é PRIMO!')
 else:
+    print('E por isso ele NAÔ é PRIMO')
