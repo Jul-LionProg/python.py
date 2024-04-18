@@ -6,3 +6,5 @@ for letra in range(len(junto)-1, -1, -1): # len foi da ultima letra ate a -1 pri
     inverso += junto[letra]
 if inverso == junto:
     print('Temos um PALINDROMO:')
+else:
+    print('A frase digitada NÃO é um PALINDROMO')
