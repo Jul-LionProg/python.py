@@ -205,3 +205,6 @@
 
 **DESAFIO [052](https://github.com/Jul-LionProg/python.py/blob/main/052.py) 📕⬎ ⬎ ⬎**
    * Faça um programa que leia um número inteiro e diga se ele é ou não primo.
+     
+**DESAFIO [053:](https://github.com/Jul-LionProg/python.py/blob/main/053.py) 📙⬎ ⬎ ⬎**
+   * Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
