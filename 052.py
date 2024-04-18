@@ -12,3 +12,7 @@ if tot == 2:
     print('E por isso ele é PRIMO!')
 else:
     print('E por isso ele NAÔ é PRIMO')
+
+
+# DESAFIO 052 (Aula 013)
+# Faça um programa que leia um número inteiro e diga se ele é ou não primo.
