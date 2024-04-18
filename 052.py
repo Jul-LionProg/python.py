@@ -7,3 +7,5 @@ for c in range(1, num + 1):
     else:
         print('\033[31m', end='')
     print('{}'.format(c), end='')
+print('\n\033[m0 número {} foi divisivel {} vezes'.format(num,tot))
+if tot == 2:
