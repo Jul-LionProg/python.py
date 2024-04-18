@@ -8,3 +8,7 @@ if inverso == junto:
     print('Temos um PALINDROMO:')
 else:
     print('A frase digitada NÃO é um PALINDROMO')
+
+
+# DESAFIO 053 (Aula 013)
+# Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
