@@ -12,3 +12,8 @@ for p in range(1, 6):
             menor = peso
 print('O maior peso lido foi de {}Kg'.format(maior))
 print('o menor peso lido foi de {}Kg'.format(menor))
+
+
+# DESAFIO 055 (Aula 013)
+# Faça um progrma que leia o peso de cinco pessoas.
+# No final mostre qual foi o maior eo peso menor lidos
