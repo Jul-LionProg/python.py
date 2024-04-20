@@ -7,3 +7,5 @@ for pess in range(1, 8):
     idade = atual - nasc
     if idade >= 21:
         totmaior += 1
+    else:
+        totmenor += 1
