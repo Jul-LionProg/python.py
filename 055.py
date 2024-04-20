@@ -8,3 +8,5 @@ for p in range(1, 6):
     else:
         if peso > maior:
             maior = peso
+        if peso < menor:
+            menor = peso
