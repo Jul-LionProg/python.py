@@ -208,3 +208,7 @@
      
 **DESAFIO [053:](https://github.com/Jul-LionProg/python.py/blob/main/053.py) 📙⬎ ⬎ ⬎**
    * Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
+
+**DESAFIO [054:](https://github.com/Jul-LionProg/python.py/blob/main/054.py) 📙⬎ ⬎ ⬎**
+   * Crie um programa que leia o ano de nascimento de sete pessoas.
+   * * No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas ja são maiores.
