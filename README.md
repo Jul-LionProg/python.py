@@ -213,6 +213,6 @@
    * Crie um programa que leia o ano de nascimento de sete pessoas.
    * * No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas ja são maiores.
 
-**DESAFIO [055:]()**
+**DESAFIO [055:](https://github.com/Jul-LionProg/python.py/blob/main/055.py)**
    * Faça um progrma que leia o peso de cinco pessoas.
    * No final mostre qual foi o maior e o peso menor lidos.
