@@ -12,3 +12,7 @@ for pess in range(1, 8):
 print('Ao todo tivemos {} pessoas maiores de idade'.format(totmaior))
 print('E tambem tivemos {} pessoas menores de idade'.format(totmenor))
 
+
+# DESAFIO 054 (Aula 013)
+# Crie um programa que leia o ano de nascimento de sete pessoas.
+# No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas ja são maiores.
