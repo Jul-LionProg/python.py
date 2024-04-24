@@ -5,3 +5,4 @@ nomevelho = ''
 totmulher20 = 0
 for p in range(1, 5):
     print('-----{}ª PESSOA -----'.format(p))
+    nome = str(input('Nome: ')).strip() # tirar os espaços
