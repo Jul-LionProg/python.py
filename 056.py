@@ -17,3 +17,4 @@ for p in range(1, 5):
         nomevelho = nome
     if sexo in 'Ff' and idade < 20:
         totmulher20 += 1
+mediaidade = somaidade / 4 # /4
