@@ -11,3 +11,4 @@ for p in range(1, 5):
     somaidade += idade # somar tdas as idades do grupo
     if p == 1 and sexo in 'Mm':
        maioridadehomem = idade
+       nomevelho = nome
