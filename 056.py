@@ -9,3 +9,4 @@ for p in range(1, 5):
     idade = int(input('Idade: '))
     sexo = str(input('Sexo [M/F]: ')).strip()
     somaidade += idade # somar tdas as idades do grupo
+    if p == 1 and sexo in 'Mm':
