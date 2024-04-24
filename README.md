@@ -220,4 +220,4 @@
    * * Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas.
      * * No final do programa mostre:
      * * - A mediaidade de idade do grupo      - Quantidade de mulheres tem
-
+     * * - Qual é o nome do homem mais velho   - Menos de 20 anos
