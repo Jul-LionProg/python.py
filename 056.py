@@ -26,3 +26,4 @@ print('Ao todo são {} mulheres com menos de 20 anos'.format(totmulher20))
 
 
 # DESAFIO 056  (Aula 013)
+# Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas.
