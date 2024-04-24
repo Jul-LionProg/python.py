@@ -15,3 +15,4 @@ for p in range(1, 5):
     if  sexo in 'Mm' and idade > maioridadehomem:
         maioridadehomem = idade
         nomevelho = nome
+    if sexo in 'Ff' and idade < 20:
