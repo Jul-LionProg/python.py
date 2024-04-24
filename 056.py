@@ -8,3 +8,4 @@ for p in range(1, 5):
     nome = str(input('Nome: ')).strip() # tirar os espaços
     idade = int(input('Idade: '))
     sexo = str(input('Sexo [M/F]: ')).strip()
+    somaidade += idade # somar tdas as idades do grupo
