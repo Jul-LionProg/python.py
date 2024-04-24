@@ -217,3 +217,4 @@
    * No final mostre qual foi o maior e o peso menor lidos.
 
 **DESAFIO {056:}()**
+   * * Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas.
