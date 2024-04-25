@@ -5,5 +5,5 @@ print('Sera que voce consegue adivinhar?')
 acertou = False
 palpite = 0
 while not acertou: # enquato
-
+    jogador = int(input('Qual é o seu palpite? '))
 
