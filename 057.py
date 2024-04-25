@@ -2,3 +2,6 @@ sexo = str(input('Informe seu sexo [M/F]')).strip().upper()[0] # pegar a primeri
 while sexo not in 'MmFf': # enquanto
     sexo - str(input('Dados invalidos. Por favor, informe seu sexo: ')).strip().upper()[0]
 print('sexo {} registrado com sucesso'.format(sexo))
+
+
+#DESAFIO 057  (AULA 014) mundo 2
