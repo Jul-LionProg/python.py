@@ -221,3 +221,7 @@
      * * No final do programa mostre:
      * * - A mediaidade de idade do grupo      - Quantidade de mulheres tem
      * * - Qual é o nome do homem mais velho   - Menos de 20 anos
+
+**DESAFIO [057:](https://github.com/Jul-LionProg/python.py/blob/main/057.py) 📙⬎ ⬎ ⬎**
+   * * Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M, F".
+   * * Caso esteja errado peça a digitação correta
