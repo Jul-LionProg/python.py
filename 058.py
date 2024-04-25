@@ -11,3 +11,4 @@ while not acertou: # enquato
         acertou = True
     else:
         if jogador < pc:
+            print('Mais!')
