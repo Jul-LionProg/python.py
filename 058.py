@@ -10,3 +10,4 @@ while not acertou: # enquato
     if jogador == pc:
         acertou = True
     else:
+        if jogador < pc:
