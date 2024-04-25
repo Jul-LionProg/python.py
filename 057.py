@@ -5,3 +5,4 @@ print('sexo {} registrado com sucesso'.format(sexo))
 
 
 #DESAFIO 057  (AULA 014) mundo 2
+# Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M,F".
