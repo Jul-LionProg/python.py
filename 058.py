@@ -9,3 +9,4 @@ while not acertou: # enquato
     palpite += 1
     if jogador == pc:
         acertou = True
+    else:
