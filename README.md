@@ -225,3 +225,7 @@
 **DESAFIO [057:](https://github.com/Jul-LionProg/python.py/blob/main/057.py) 📙⬎ ⬎ ⬎**
    * * Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M, F".
    * * Caso esteja errado peça a digitação correta
+
+**DESAFIO [058:]() **
+   * * Melhore o jogo do DESAFIO 028 onde o pc vai pensar em um numero de 0 a 10.
+   * * So que agora o jogador vai tentar adivinhar ate acertar mostrando no final quantas tentativas foram necessarias.
