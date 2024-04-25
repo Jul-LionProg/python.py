@@ -15,3 +15,9 @@ while not acertou: # enquato
         elif jogador > pc:
             print('Menos!')
 print('Acertou Com {} tentativas. Parabens'.format(palpite))
+
+
+
+# DESAFIO 058 ( Aula14) mundo 2
+# Melhore o jogo do DESAFIO 028 onde o pc vai pensar em um numero de 0 a 10.
+# So que agora o jogador vai tentar adivinhar ate acertar mostrando no final quantas tentativas foram necessarias.
