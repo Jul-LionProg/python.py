@@ -12,3 +12,4 @@ while not acertou: # enquato
     else:
         if jogador < pc:
             print('Mais!')
+        elif jogador > pc:
