@@ -14,3 +14,4 @@ while not acertou: # enquato
             print('Mais!')
         elif jogador > pc:
             print('Menos!')
+print('Acertou Com {} tentativas. Parabens'.format(palpite))
