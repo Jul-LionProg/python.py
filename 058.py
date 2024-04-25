@@ -8,3 +8,4 @@ while not acertou: # enquato
     jogador = int(input('Qual é o seu palpite? '))
     palpite += 1
     if jogador == pc:
+        acertou = True
