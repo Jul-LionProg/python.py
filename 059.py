@@ -18,3 +18,4 @@ while op != 5:
     elif op == 3:
         if n1 > n2:
             maior = n1
+        else:
