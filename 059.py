@@ -7,3 +7,4 @@ while op != 5:
     [ 2 ] Multiplicação:
     [ 3 ] Maior: 
     [ 4 ] Novos números:
+    [ 5 ] Sair:''')
