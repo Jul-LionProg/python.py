@@ -14,3 +14,4 @@ while op != 5:
         print('{} + {} = {}'.format(n1, n2, soma))
     elif op == 2:
         multi = n1 * n2
+        print('{} x {} = {}'.format(n1, n2, multi))
