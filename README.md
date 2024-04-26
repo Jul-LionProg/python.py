@@ -232,8 +232,8 @@
 
 **DESSAFIO [059:]()**
    * *Crie um progrma que leia dois valores e mostre um menu
-    *[ 1 ]SOMA
-    *[ 3 ]MAIOR QUE
-    *[ 4 ]NOVOS VALORES
-    *[ 5 ] Sair
+     * *[ 1 ]SOMA
+     * *[ 3 ]MAIOR QUE
+     * *[ 4 ]NOVOS VALORES
+     * *[ 5 ] Sair
    * *Seu programa devera realizar a operação solicitando em cada caso.
