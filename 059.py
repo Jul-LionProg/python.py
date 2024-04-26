@@ -22,3 +22,4 @@ while op != 5:
         print('Entre {}, e {}, o maior é {}'.format(n1, n2, maior))
     elif op == 4:
         print('Numero Novo: ')
+        n1 = int(input('Primerio numero: '))
