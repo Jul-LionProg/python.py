@@ -27,3 +27,4 @@ while op != 5:
     elif op == 5:
         print('Finalizando....')
     else:
+        print('Opção invalida. ')
