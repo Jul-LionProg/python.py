@@ -41,3 +41,4 @@ while op != 5:
     [ 3 ]MAIOR QUE
     [ 4 ]NOVOS VALORES
     [ 5 ] Sair
+Seu programa devera realizar a operação solicitando em cada caso.'''
