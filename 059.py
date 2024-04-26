@@ -10,3 +10,4 @@ while op != 5:
     [ 5 ] Sair:''')
     op = int(input('>>>> Qual é sua opção: '))
     if op == 1:
+    soma = n1 + n2
