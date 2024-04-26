@@ -231,7 +231,7 @@
    * * So que agora o jogador vai tentar adivinhar ate acertar mostrando no final quantas tentativas foram necessarias.
 
 **DESSAFIO [059:](https://github.com/Jul-LionProg/python.py/blob/main/059.py) 📕📕📕⬎ ⬎ ⬎**
-   * * Crie um progrma que leia dois valores e mostre um menu
+   * * Crie um programa que leia dois valores e mostre um menu
      * [ 1 ] SOMA
      * [ 3 ] MAIOR QUE
      * [ 4 ] NOVOS VALORES
