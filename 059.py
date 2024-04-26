@@ -8,3 +8,4 @@ while op != 5:
     [ 3 ] Maior: 
     [ 4 ] Novos números:
     [ 5 ] Sair:''')
+    op = int(input('>>>> Qual é sua opção: '))
