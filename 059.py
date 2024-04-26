@@ -20,3 +20,4 @@ while op != 5:
             maior = n1
         else:
         print('Entre {}, e {}, o maior é {}'.format(n1, n2, maior))
+    elif op == 4:
