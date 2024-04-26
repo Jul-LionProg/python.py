@@ -13,3 +13,4 @@ while op != 5:
     soma = n1 + n2
         print('{} + {} = {}'.format(n1, n2, soma))
     elif op == 2:
+        multi = n1 * n2
