@@ -24,3 +24,4 @@ while op != 5:
         print('Numero Novo: ')
         n1 = int(input('Primerio numero: '))
         n2 = int(input('Segundo numero: '))
+    elif op == 5:
