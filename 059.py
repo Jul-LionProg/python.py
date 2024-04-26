@@ -11,3 +11,4 @@ while op != 5:
     op = int(input('>>>> Qual é sua opção: '))
     if op == 1:
     soma = n1 + n2
+        print('{} + {} = {}'.format(n1, n2, soma))
