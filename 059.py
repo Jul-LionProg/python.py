@@ -38,3 +38,4 @@ while op != 5:
 '''Crie um progrma que leia dois valores e mostre um menu
     [ 1 ]SOMA
     [ 2 ]MULTIPLICAÇÃO
+    [ 3 ]MAIOR QUE
