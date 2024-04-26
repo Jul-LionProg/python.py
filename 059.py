@@ -25,3 +25,4 @@ while op != 5:
         n1 = int(input('Primerio numero: '))
         n2 = int(input('Segundo numero: '))
     elif op == 5:
+        print('Finalizando....')
