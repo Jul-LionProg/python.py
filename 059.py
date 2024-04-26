@@ -39,3 +39,5 @@ while op != 5:
     [ 1 ]SOMA
     [ 2 ]MULTIPLICAÇÃO
     [ 3 ]MAIOR QUE
+    [ 4 ]NOVOS VALORES
+    [ 5 ] Sair
