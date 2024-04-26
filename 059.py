@@ -6,3 +6,4 @@ while op != 5:
     print('''    [ 1 ] somar:
     [ 2 ] Multiplicação:
     [ 3 ] Maior: 
+    [ 4 ] Novos números:
