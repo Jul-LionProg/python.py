@@ -15,3 +15,4 @@ while op != 5:
     elif op == 2:
         multi = n1 * n2
         print('{} x {} = {}'.format(n1, n2, multi))
+    elif op == 3:
