@@ -17,3 +17,4 @@ while op != 5:
         print('{} x {} = {}'.format(n1, n2, multi))
     elif op == 3:
         if n1 > n2:
+            maior = n1
