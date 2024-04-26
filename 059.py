@@ -29,3 +29,4 @@ while op != 5:
     else:
         print('Opção invalida. ')
     print('=-=' * 10)
+    sleep(2)
