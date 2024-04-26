@@ -12,3 +12,4 @@ while op != 5:
     if op == 1:
     soma = n1 + n2
         print('{} + {} = {}'.format(n1, n2, soma))
+    elif op == 2:
