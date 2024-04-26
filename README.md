@@ -230,10 +230,10 @@
    * * Melhore o jogo do DESAFIO 028 onde o pc vai pensar em um numero de 0 a 10.
    * * So que agora o jogador vai tentar adivinhar ate acertar mostrando no final quantas tentativas foram necessarias.
 
-**DESSAFIO [059:]()**
+**DESSAFIO [059:](https://github.com/Jul-LionProg/python.py/blob/main/059.py) 📕📕📕⬎ ⬎ ⬎**
    * * Crie um progrma que leia dois valores e mostre um menu
-     * [ 1 ]SOMA
-     * [ 3 ]MAIOR QUE
-     * [ 4 ]NOVOS VALORES
+     * [ 1 ] SOMA
+     * [ 3 ] MAIOR QUE
+     * [ 4 ] NOVOS VALORES
      * [ 5 ] Sair
    * * Seu programa devera realizar a operação solicitando em cada caso.
