@@ -36,4 +36,5 @@ while op != 5:
     
 # DESSAFIO 059 (Aula 014)
 '''Crie um progrma que leia dois valores e mostre um menu
-
+    [ 1 ]SOMA
+    [ 2 ]MULTIPLICAÇÃO
