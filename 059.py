@@ -19,3 +19,4 @@ while op != 5:
         if n1 > n2:
             maior = n1
         else:
+        print('Entre {}, e {}, o maior é {}'.format(n1, n2, maior))
