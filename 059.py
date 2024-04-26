@@ -1,1 +1,2 @@
 from time import sleep
+n1 = int(input('Primeiro valor: '))
