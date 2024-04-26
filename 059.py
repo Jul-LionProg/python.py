@@ -28,3 +28,4 @@ while op != 5:
         print('Finalizando....')
     else:
         print('Opção invalida. ')
+    print('=-=' * 10)
