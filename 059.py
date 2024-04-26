@@ -26,3 +26,4 @@ while op != 5:
         n2 = int(input('Segundo numero: '))
     elif op == 5:
         print('Finalizando....')
+    else:
