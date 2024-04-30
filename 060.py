@@ -8,3 +8,4 @@ print('O fatorial de {} é {}.'.format(n, f))'''
 n = int(input('Calcule o fatorial de: '))
 c = n
 f = 1
+print('Calculando {}! = '.format(n), end='')
