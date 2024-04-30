@@ -9,3 +9,4 @@ n = int(input('Calcule o fatorial de: '))
 c = n
 f = 1
 print('Calculando {}! = '.format(n), end='')
+while c > 0:
