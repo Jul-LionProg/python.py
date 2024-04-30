@@ -238,6 +238,6 @@
      * [ 5 ] Sair
    * * Seu programa devera realizar a operação solicitando em cada caso.
        
-**DESAFIO [060:](https://github.com/Jul-LionProg/python.py/blob/main/060.py)**
+**DESAFIO [060:](https://github.com/Jul-LionProg/python.py/blob/main/060.py) 📙⬎ ⬎ ⬎**
    * * Faça um progrma que leia um numero e mostre seu FATORIAL.
      * 5! = 5 x 4 x 3 x 2 x 1 = 120
