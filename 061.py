@@ -2,4 +2,4 @@ print('Gerador de PA')
 print( '-=' *10)
 primeiro = int(input('Primeiro termo: '))
 razao = int(input('Razão de  PA: '))
-termo 
+termo = primeiro
