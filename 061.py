@@ -1,1 +1,1 @@
-print
+print('Gerador de PA')
