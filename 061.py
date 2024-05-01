@@ -1,2 +1,2 @@
 print('Gerador de PA')
-print
+print( '-=' *10)
