@@ -1,3 +1,3 @@
 print('Gerador de PA')
 print( '-=' *10)
-primeiro = int(input
+primeiro = int(input('Primeiro termo: '))
