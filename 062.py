@@ -1,1 +1,1 @@
-
+print('Gerador de PA')
