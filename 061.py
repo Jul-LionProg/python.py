@@ -7,3 +7,4 @@ cont = 1
 while cont <= 10: # laço
    print('{} ➙ '.format(termo),end='')
     termo += razao
+    cont += 1
