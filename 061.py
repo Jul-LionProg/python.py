@@ -9,3 +9,6 @@ while cont <= 10: # laço
     termo += razao
     cont += 1
 print('FIM')
+
+
+# DESAFIO 061 (Aula 014)
