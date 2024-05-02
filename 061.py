@@ -12,3 +12,4 @@ print('FIM')
 
 
 # DESAFIO 061 (Aula 014)
+# Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
