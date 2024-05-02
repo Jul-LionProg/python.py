@@ -5,7 +5,7 @@ razao = int(input('Razão de  PA: '))
 termo = primeiro
 cont = 1
 while cont <= 10: # laço
-   print('{} ➙ '.format(termo),end='')
+    print('{} ➙ '.format(termo),end='')
     termo += razao
     cont += 1
 print('FIM')
