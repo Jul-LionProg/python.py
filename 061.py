@@ -8,3 +8,4 @@ while cont <= 10: # laço
    print('{} ➙ '.format(termo),end='')
     termo += razao
     cont += 1
+print('FIM')
