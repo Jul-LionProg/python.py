@@ -11,3 +11,4 @@ while mais != 0:
     while cont <= total: # laço
         print('{} ➙ '.format(termo),end='')
         termo += razao
+        cont += 1
