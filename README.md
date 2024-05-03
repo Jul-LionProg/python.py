@@ -242,7 +242,7 @@
    * * Faça um progrma que leia um numero e mostre seu FATORIAL.
      * 5! = 5 x 4 x 3 x 2 x 1 = 120
 
-**DESAFIO [061:]() 📕⬎ ⬎ ⬎**
+**DESAFIO [061:](https://github.com/Jul-LionProg/python.py/blob/main/061.py) 📕⬎ ⬎ ⬎**
    * * Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
 
 **DESAFIO [062:](https://github.com/Jul-LionProg/python.py/blob/main/062.py) 📕⬎ ⬎ ⬎**
