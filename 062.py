@@ -9,3 +9,4 @@ mais = 10
 while mais != 0:
     total = total + mais
     while cont <= total: # laço
+        print('{} ➙ '.format(termo),end='')
