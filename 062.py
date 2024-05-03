@@ -12,3 +12,4 @@ while mais != 0:
         print('{} ➙ '.format(termo),end='')
         termo += razao
         cont += 1
+    print('PAUSA')
