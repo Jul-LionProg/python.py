@@ -13,3 +13,4 @@ while mais != 0:
         termo += razao
         cont += 1
     print('PAUSA')
+    mais = int(input('Quantos termos voce quer mostrar a mais? '))
