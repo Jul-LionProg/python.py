@@ -15,3 +15,8 @@ while mais != 0:
     print('PAUSA')
     mais = int(input('Quantos termos voce quer mostrar a mais? '))
 print('Progressao finalizada com {} termos mostrados'.format(total))
+
+
+# DESAFIO 062  (Aula 14)
+# Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
+# O programa encerra quando ele disser que quer mostra o Numero
