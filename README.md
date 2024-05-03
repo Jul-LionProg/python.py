@@ -245,6 +245,6 @@
 **DESAFIO [061:]() 📕⬎ ⬎ ⬎**
    * * Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
 
-**DESAFIO [062:]() 📕⬎ ⬎ ⬎**
+**DESAFIO [062:](https://github.com/Jul-LionProg/python.py/blob/main/062.py) 📕⬎ ⬎ ⬎**
    * * Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
    * * O programa encerra quando ele disser que quer mostra o Numero
