@@ -5,3 +5,4 @@ razao = int(input('Razão de  PA: '))
 termo = primeiro
 cont = 1
 total = 0
+mais = 10
