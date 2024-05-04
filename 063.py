@@ -18,3 +18,5 @@ print('~' *30)
 
 
 # DESAFIO 063  (Aula 14)
+# Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N prieiros  elementos de uma Fibonacci.
+# Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
