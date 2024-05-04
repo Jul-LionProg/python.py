@@ -249,6 +249,6 @@
    * * Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
    * * O programa encerra quando ele disser que quer mostra o Numero
 
-**DESAFIO [063:](https://github.com/Jul-LionProg/python.py/blob/main/063.py)**
+**DESAFIO [063:](https://github.com/Jul-LionProg/python.py/blob/main/063.py) 📙⬎ ⬎ ⬎**
    * * Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N primeiros elementos de uma Fibonacci.
    * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
