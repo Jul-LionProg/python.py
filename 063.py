@@ -8,3 +8,4 @@ print('~' *30)
 print('{} → {}'.format(t1, t2), end='')
 cont = 3
 while cont <= n:
+    t3 = t1 + t2
