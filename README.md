@@ -242,11 +242,6 @@
    * * Faça um progrma que leia um numero e mostre seu FATORIAL.
      * 5! = 5 x 4 x 3 x 2 x 1 = 120
 
-
-**DESAFIO [063:](https://github.com/Jul-LionProg/python.py/blob/main/063.py)**
-   * * Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N prieiros elementos de uma Fibonacci.
-   * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
-
 **DESAFIO [061:](https://github.com/Jul-LionProg/python.py/blob/main/061.py) 📕⬎ ⬎ ⬎**
    * * Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
 
