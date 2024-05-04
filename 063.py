@@ -13,3 +13,4 @@ while cont <= n:
     t1 = t2   # passar a ser
     t2 = t3   # passar a ser
     cont += 1
+print(' → FIM')
