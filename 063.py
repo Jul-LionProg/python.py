@@ -14,3 +14,4 @@ while cont <= n:
     t2 = t3   # passar a ser
     cont += 1
 print(' → FIM')
+print('~' *30)
