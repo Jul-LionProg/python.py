@@ -12,3 +12,4 @@ while cont <= n:
     print(' → {}'.format(t3), end='')
     t1 = t2   # passar a ser
     t2 = t3   # passar a ser
+    cont += 1
