@@ -10,3 +10,4 @@ cont = 3
 while cont <= n:
     t3 = t1 + t2
     print(' → {}'.format(t3), end='')
+    t1 = t2   # passar a ser
