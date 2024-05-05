@@ -253,7 +253,7 @@
    * * Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N primeiros elementos de uma Fibonacci.
    * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
 
-**DESAFIO [064:](https://github.com/Jul-LionProg/python.py/blob/main/064.py)**
+**DESAFIO [064:](https://github.com/Jul-LionProg/python.py/blob/main/064.py) 📙⬎ ⬎ ⬎**
    * * Crie um progroma que leia varios numeros inteiros pelo teclado.
      * * O progroma so vai parar quando o usuario digitar o valor 999, que é a condição de parda.
      * * No final mostre quantos numeros foram digitados e qual foi a soma entre eles (desconsiderando o flag)
