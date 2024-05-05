@@ -254,6 +254,6 @@
    * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
 
 **DESAFIO [064:]()**
-   * * Crie um progroma qie leia varios numeros inteiros pelo teclado.
-     * * O progroma so vai papar quando o usuario digitar o valor 999, que é a condição de parda.
-     * * No final mostre quantos numeros foram digitados e qual foi a soma entre eles(desconsider ndo o flag)
+   * * Crie um progroma que leia varios numeros inteiros pelo teclado.
+     * * O progroma so vai parar quando o usuario digitar o valor 999, que é a condição de parda.
+     * * No final mostre quantos numeros foram digitados e qual foi a soma entre eles (desconsider ndo o flag)
