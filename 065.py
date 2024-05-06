@@ -20,3 +20,4 @@ print('O maior valor foi {} e o menor foi {}'.format(maior, menor))
 
 # DESAFIO 065 (Aula 14)
 # Crie um programa que leia varios numeros inteiros pelo teclado.
+# NO final da execução mostre a media entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuario se ele quer parar ou continu....
