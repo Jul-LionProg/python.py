@@ -13,3 +13,4 @@ while resp in 'Ss':  # entre
             menor = num
     resp = str(input('Quer continuar? [N/S] ')).upper().strip()[0]
 media = soma / quant
+print('Voce digitou {} numero e a media foi {}'.format(quant, media))
