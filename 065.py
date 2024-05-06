@@ -5,3 +5,4 @@ while resp in 'Ss':  # entre
     soma += num
     quant += 1 
     if quant == 1:
+        maior = menor = num
