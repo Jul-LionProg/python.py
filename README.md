@@ -257,7 +257,7 @@
    * * Crie um progroma que leia varios numeros inteiros pelo teclado.
      * * O progroma so vai parar quando o usuario digitar o valor 999, que é a condição de parda.
      * * No final mostre quantos numeros foram digitados e qual foi a soma entre eles (desconsiderando o flag)
-       * 
-# DESAFIO 065 (Aula 14)
-# Crie um programa que leia varios numeros inteiros pelo teclado.
-# NO final da execução mostre a media entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuario se ele quer parar ou continu....
+         
+**DESAFIO [065:]()**
+   * * Crie um programa que leia varios numeros inteiros pelo teclado.
+   * * NO final da execução mostre a media entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuario se ele quer parar ou continuar....
