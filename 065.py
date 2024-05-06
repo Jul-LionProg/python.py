@@ -19,3 +19,4 @@ print('O maior valor foi {} e o menor foi {}'.format(maior, menor))
 
 
 # DESAFIO 065 (Aula 14)
+# Crie um programa que leia varios numeros inteiros pelo teclado.
