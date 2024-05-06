@@ -11,3 +11,4 @@ while resp in 'Ss':  # entre
             maior = num
         if num < menor:
             menor = num
+    resp = str(input('Quer continuar? [N/S] ')).upper().strip()[0]
