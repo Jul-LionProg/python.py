@@ -1,2 +1,2 @@
 resp = 'S'
-soma = quant = maior 
+soma = quant = maior = menor = 0
