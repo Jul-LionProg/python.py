@@ -8,3 +8,4 @@ while resp in 'Ss':  # entre
         maior = menor = num
     else:
         if num > maior:
+            maior = num
