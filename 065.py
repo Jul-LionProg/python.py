@@ -12,3 +12,4 @@ while resp in 'Ss':  # entre
         if num < menor:
             menor = num
     resp = str(input('Quer continuar? [N/S] ')).upper().strip()[0]
+media = soma / quant
