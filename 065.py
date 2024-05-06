@@ -4,3 +4,4 @@ while resp in 'Ss':  # entre
     num = int(input('Digite um numero: '))
     soma += num
     quant += 1 
+    if quant == 1:
