@@ -6,3 +6,4 @@ while resp in 'Ss':  # entre
     quant += 1 
     if quant == 1:
         maior = menor = num
+    else:
