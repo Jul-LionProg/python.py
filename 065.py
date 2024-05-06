@@ -7,3 +7,4 @@ while resp in 'Ss':  # entre
     if quant == 1:
         maior = menor = num
     else:
+        if num > maior:
