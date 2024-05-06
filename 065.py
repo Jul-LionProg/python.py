@@ -9,3 +9,4 @@ while resp in 'Ss':  # entre
     else:
         if num > maior:
             maior = num
+        if num < menor:
