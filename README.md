@@ -262,7 +262,7 @@
    * * Crie um programa que leia varios numeros inteiros pelo teclado.
    * * No final da execução mostre a media entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuario se ele quer parar ou continuar....
 
-**DESAFIO [066:]()**
+**DESAFIO [066:](https://github.com/Jul-LionProg/python.py/blob/main/066.py)**
    * * Crie um programa que leia varios numeros inteiros. O programa so vap para quando o usuario digitar 999, que é Aula
      * * CONDIÇÃO DE PARADA. no final mostre quantos numeros foram digitados e qual a soma entre eles
      * * DESCONSIDERANDO O FLAG.
