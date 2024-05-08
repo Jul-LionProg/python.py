@@ -1,1 +1,1 @@
-
+soma = cont = 0
