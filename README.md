@@ -266,3 +266,7 @@
    * * Crie um programa que leia varios numeros inteiros. O programa so vap para quando o usuario digitar 999, que é Aula
      * * CONDIÇÃO DE PARADA. no final mostre quantos numeros foram digitados e qual a soma entre eles
      * * DESCONSIDERANDO O FLAG.
+
+ **DESAFIO [067:]()**
+    * * Faça um programa que mostre a TABUADA de varios valores um de cada vez para cada valor digitado pelo usuario.
+      * * O programa sera interrompido quando o numero for NEGATIVO.
