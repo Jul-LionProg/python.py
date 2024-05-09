@@ -7,3 +7,11 @@ while True:
         print(f'{n} x {c} = {n*c}')
     print('-' * 30)
 print('TABUADA ENCERRADA.')
+
+
+
+# DESAFIO 067 (Aula 15)
+
+'''Faça um programa que mostre a TABUADA de varios valores um de cada vez
+para cada valor digitado pelo usuario. O programa sera interrompido
+quando o numero for NEGATIVO.'''
