@@ -1,2 +1,2 @@
 while True:
-    n = int(input('quer ver a tabuada 
+    n = int(input('quer ver a tabuada de qual valor? '))
