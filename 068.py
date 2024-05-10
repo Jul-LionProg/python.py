@@ -25,3 +25,7 @@ while True:
             break
     print('Vamos jogar novamente...')
 print(f'GAME OVER! Você venceu {v} vezes.')
+
+
+
+EXERCÍCIO 068: Jogo do Par ou Ímpar
