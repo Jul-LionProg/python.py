@@ -7,3 +7,4 @@ while True:
     tipo = ' '
     while tipo not in 'PI':
         tipo = str(input('Par ou Ímpar [P/I]? ')).strip().upper()[0]
+    print(f'Você jogou {jogador} e o computador 
