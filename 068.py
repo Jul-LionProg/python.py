@@ -16,3 +16,4 @@ while True:
         else:
             print('Você PERDEU!')
             break
+    elif tipo == 'I':
