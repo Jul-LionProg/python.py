@@ -10,3 +10,4 @@ while True:
     print(f'Você jogou {jogador} e o computador {computador}. Total de {total}', end=' ')
     print('DEU PAR.' if total % 2 == 0 else 'DEU ÍMPAR.')
     if tipo == 'P':
+        if total % 2 == 0:
