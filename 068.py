@@ -23,3 +23,4 @@ while True:
         else:
             print('Você PERDEU!')
             break
+    print('Vamos jogar novamente...')
