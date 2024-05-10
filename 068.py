@@ -6,4 +6,4 @@ while True:
     total = jogador + computador
     tipo = ' '
     while tipo not in 'PI':
-        tipo = str(input('Par ou Ímpar [P/I]? ')
+        tipo = str(input('Par ou Ímpar [P/I]? ')).strip().upper()[0]
