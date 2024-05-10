@@ -11,3 +11,4 @@ while True:
     print('DEU PAR.' if total % 2 == 0 else 'DEU ÍMPAR.')
     if tipo == 'P':
         if total % 2 == 0:
+            print('Você VENCEU!')
