@@ -17,3 +17,4 @@ while True:
             print('Você PERDEU!')
             break
     elif tipo == 'I':
+        if total % 2 == 1:
