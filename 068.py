@@ -13,3 +13,4 @@ while True:
         if total % 2 == 0:
             print('Você VENCEU!')
             v += 1
+        else:
