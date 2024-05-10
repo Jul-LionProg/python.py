@@ -271,3 +271,7 @@
 **DESAFIO [067:](https://github.com/Jul-LionProg/python.py/blob/main/067.py) 📙⬎ ⬎ ⬎**
    * * Faça um programa que mostre a TABUADA de varios valores um de cada vez para cada valor digitado pelo usuario.
    * * O programa sera interrompido quando o numero for NEGATIVO.
+
+**DESAFIO [068:]()**
+   * * Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o
+   * * jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
