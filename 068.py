@@ -22,3 +22,4 @@ while True:
             v += 1
         else:
             print('Você PERDEU!')
+            break
