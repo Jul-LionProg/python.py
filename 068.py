@@ -18,3 +18,4 @@ while True:
             break
     elif tipo == 'I':
         if total % 2 == 1:
+            print('Você VENCEU!')
