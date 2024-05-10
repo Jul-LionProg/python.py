@@ -5,3 +5,4 @@ while True:
     computador = randint(0, 10)
     total = jogador + computador
     tipo = ' '
+    while tipo not in 'PI':
