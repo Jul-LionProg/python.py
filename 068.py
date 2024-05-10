@@ -14,3 +14,4 @@ while True:
             print('Você VENCEU!')
             v += 1
         else:
+            print('Você PERDEU!')
