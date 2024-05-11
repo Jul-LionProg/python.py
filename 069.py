@@ -27,3 +27,4 @@ o programa deverá perguntar se o usuário quer ou não continuar. No final, mos
 
 A) Quantas pessoas têm mais de 18 anos.
 B) Quantos homens foram cadastrados.
+C) Quantas mulheres têm menos de 20 anos.
