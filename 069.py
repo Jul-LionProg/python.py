@@ -10,3 +10,4 @@ while True:
         totH += 1
     if sexo == 'F' and idade < 20:
         totM20 += 1
+    resp = ' '
