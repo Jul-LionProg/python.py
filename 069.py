@@ -16,3 +16,4 @@ while True:
     if resp == 'N':
         break
 print(f'Total de pessoas com mais de 18 anos: {tot18}')
+print(f'Ao todo temos {totH} homens cadastrados')
