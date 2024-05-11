@@ -26,3 +26,4 @@ print(f'E temos {totM20} mulheres com menos de 20 anos')
 o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
 
 A) Quantas pessoas têm mais de 18 anos.
+B) Quantos homens foram cadastrados.
