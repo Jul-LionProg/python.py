@@ -11,3 +11,4 @@ while True:
     if sexo == 'F' and idade < 20:
         totM20 += 1
     resp = ' '
+    while resp not in 'SN':
