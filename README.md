@@ -217,21 +217,20 @@
    * No final mostre qual foi o maior e o peso menor lidos.
 
 **DESAFIO [056:](https://github.com/Jul-LionProg/python.py/edit/main/056.py) 📕📕📕⬎ ⬎ ⬎**
-   * * Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas.
-     * * No final do programa mostre:
+   *  Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas. No final do programa mostre:
      * * - A mediaidade de idade do grupo      - Quantidade de mulheres tem
      * * - Qual é o nome do homem mais velho   - Menos de 20 anos
 
 **DESAFIO [057:](https://github.com/Jul-LionProg/python.py/blob/main/057.py) 📙⬎ ⬎ ⬎**
-   * * Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M, F".
+   * Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M, F".
    * * Caso esteja errado peça a digitação correta
 
 **DESAFIO [058:](https://github.com/Jul-LionProg/python.py/blob/main/058.py) 📙📙⬎ ⬎ ⬎**
-   * * Melhore o jogo do DESAFIO 028 onde o pc vai pensar em um numero de 0 a 10.
+   * Melhore o jogo do DESAFIO 028 onde o pc vai pensar em um numero de 0 a 10.
    * * So que agora o jogador vai tentar adivinhar ate acertar mostrando no final quantas tentativas foram necessarias.
 
 **DESSAFIO [059:](https://github.com/Jul-LionProg/python.py/blob/main/059.py) 📕📕📕⬎ ⬎ ⬎**
-   * * Crie um programa que leia dois valores e mostre um menu
+   *  Crie um programa que leia dois valores e mostre um menu
      * [ 1 ] SOMA
      * [ 3 ] MAIOR QUE
      * [ 4 ] NOVOS VALORES
@@ -239,27 +238,27 @@
    * * Seu programa devera realizar a operação solicitando em cada caso.
        
 **DESAFIO [060:](https://github.com/Jul-LionProg/python.py/blob/main/060.py) 📙⬎ ⬎ ⬎**
-   * * Faça um progrma que leia um numero e mostre seu FATORIAL.
+   *  Faça um progrma que leia um numero e mostre seu FATORIAL.
      * 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 **DESAFIO [061:](https://github.com/Jul-LionProg/python.py/blob/main/061.py) 📕⬎ ⬎ ⬎**
-   * * Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
+   *  Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
 
 **DESAFIO [062:](https://github.com/Jul-LionProg/python.py/blob/main/062.py) 📕⬎ ⬎ ⬎**
-   * * Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
+   *  Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
    * * O programa encerra quando ele disser que quer mostra o Numero
 
 **DESAFIO [063:](https://github.com/Jul-LionProg/python.py/blob/main/063.py) 📙⬎ ⬎ ⬎**
-   * * Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N primeiros elementos de uma Fibonacci.
+   *  Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N primeiros elementos de uma Fibonacci.
    * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
 
 **DESAFIO [064:](https://github.com/Jul-LionProg/python.py/blob/main/064.py) 📙⬎ ⬎ ⬎**
-   * * Crie um progroma que leia varios numeros inteiros pelo teclado.
+   *  Crie um progroma que leia varios numeros inteiros pelo teclado.
      * * O progroma so vai parar quando o usuario digitar o valor 999, que é a condição de parda.
      * * No final mostre quantos numeros foram digitados e qual foi a soma entre eles (desconsiderando o flag)
          
 **DESAFIO [065:](https://github.com/Jul-LionProg/python.py/blob/main/065.py) 📕⬎ ⬎ ⬎**
-   * * Crie um programa que leia varios numeros inteiros pelo teclado.
+   *  Crie um programa que leia varios numeros inteiros pelo teclado.
    * * No final da execução mostre a media entre todos os valores e qual foi o maior e o menor valores lidos.
    * * O programa deve perguntar ao usuario se ele quer parar ou continuar....
 
