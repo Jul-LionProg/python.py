@@ -8,3 +8,4 @@ while True:
         tot18 += 1
     if sexo == 'M':
         totH += 1
+    if sexo == 'F' 
