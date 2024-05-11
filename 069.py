@@ -24,3 +24,5 @@ print(f'E temos {totM20} mulheres com menos de 20 anos')
 # DESAFIO 067 (Aula 15)
 '''Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, 
 o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+
+A) Quantas pessoas têm mais de 18 anos.
