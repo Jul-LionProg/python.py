@@ -7,3 +7,4 @@ while True:
     if idade >= 18:
         tot18 += 1
     if sexo == 'M':
+        totH += 1
