@@ -11,3 +11,4 @@ while True:
     if preco > 1000:
         totmil += 1
     resp = ' '
+    while resp not in 'SN':
