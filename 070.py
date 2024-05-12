@@ -3,3 +3,4 @@ barato = ''
 while True:
     produto = str(input('Nome do produto: '))
     preco = float(input('Preço: R$ '))
+    cont += 1
