@@ -268,20 +268,20 @@
      * * DESCONSIDERANDO O FLAG.
 
 **DESAFIO [067:](https://github.com/Jul-LionProg/python.py/blob/main/067.py) 📙⬎ ⬎ ⬎**
-   * * Faça um programa que mostre a TABUADA de varios valores um de cada vez para cada valor digitado pelo usuario.
-   * * O programa sera interrompido quando o numero for NEGATIVO.
+   * Faça um programa que mostre a TABUADA de varios valores um de cada vez para cada valor digitado pelo usuario.
+   * O programa sera interrompido quando o numero for NEGATIVO.
 
 **DESAFIO [068:](https://github.com/Jul-LionProg/python.py/blob/main/068.py) 📙⬎ ⬎ ⬎**
-   * * Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o
-   * * jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+   * Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o
+   * jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
        
 **DESAFIO [069:](https://github.com/Jul-LionProg/python.py/blob/main/069.py) 📕⬎ ⬎ ⬎**
-   * * Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+   * Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
      * * A) Quantas pessoas têm mais de 18 anos.
      * * B) Quantos homens foram cadastrados.
      * * C) Quantas mulheres têm menos de 20 anos.
 
-**DESAFIO [070:](https://github.com/Jul-LionProg/python.py/edit/main/070.py)**
+**DESAFIO [070:](https://github.com/Jul-LionProg/python.py/edit/main/070.py) 📕⬎ ⬎ ⬎**
   * Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
   * A) Qual é o total gasto na compra.
   * B) Quantos produtos custam mais de R$ 1000.
