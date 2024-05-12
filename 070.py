@@ -17,3 +17,4 @@ while True:
         break
 print(f'{" FIM DO PROGRAMA ":-^40}')
 print(f'O total da compra foi R$ {total:.2f}')
+print(f'Temos {totmil} produtos custando mais de R$ 1000.00')
