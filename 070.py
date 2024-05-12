@@ -5,3 +5,4 @@ while True:
     preco = float(input('Preço: R$ '))
     cont += 1
     if cont == 1 or preco < menor:
+        menor = preco
