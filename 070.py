@@ -10,3 +10,4 @@ while True:
     total += preco
     if preco > 1000:
         totmil += 1
+    resp = ' '
