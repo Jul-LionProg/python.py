@@ -7,3 +7,4 @@ while True:
     if cont == 1 or preco < menor:
         menor = preco
         barato = produto
+    total += preco
