@@ -12,3 +12,4 @@ while True:
         totmil += 1
     resp = ' '
     while resp not in 'SN':
+        resp = str(input
