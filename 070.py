@@ -9,3 +9,4 @@ while True:
         barato = produto
     total += preco
     if preco > 1000:
+        totmil += 1
