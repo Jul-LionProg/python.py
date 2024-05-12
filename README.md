@@ -281,7 +281,7 @@
      * * B) Quantos homens foram cadastrados.
      * * C) Quantas mulheres têm menos de 20 anos.
 
-**DESAFIO [070:]()**
+**DESAFIO [070:](https://github.com/Jul-LionProg/python.py/edit/main/070.py)**
   * Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
   * A) Qual é o total gasto na compra.
   * B) Quantos produtos custam mais de R$ 1000.
