@@ -21,3 +21,4 @@ print(f'Temos {totmil} produtos custando mais de R$ 1000.00')
 print(f'O produto mais barato foi {barato} que custa R$ {menor:.2f}')
 
 
+#DESAFIO 070 ()
