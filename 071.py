@@ -9,3 +9,4 @@ while True:
     if total >= ced:
         total -= ced
         totced += 1
+    else:
