@@ -14,3 +14,4 @@ while True:
            print(f'Total de {totced} cédulas de R$ {ced}')
         if ced == 50:
             ced = 20
+        elif ced == 20:
