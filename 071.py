@@ -16,3 +16,4 @@ while True:
             ced = 20
         elif ced == 20:
             ced = 10
+        elif ced == 10:
