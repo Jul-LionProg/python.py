@@ -6,3 +6,4 @@ total = valor
 ced = 50
 totced = 0
 while True:
+    if total >= ced:
