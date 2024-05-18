@@ -15,3 +15,4 @@ while True:
         if ced == 50:
             ced = 20
         elif ced == 20:
+            ced = 10
