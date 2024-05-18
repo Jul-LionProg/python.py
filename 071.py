@@ -18,3 +18,4 @@ while True:
             ced = 10
         elif ced == 10:
             ced = 1
+        totced = 0
