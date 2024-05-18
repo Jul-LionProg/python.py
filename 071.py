@@ -19,3 +19,4 @@ while True:
         elif ced == 10:
             ced = 1
         totced = 0
+        if total == 0:
