@@ -20,3 +20,4 @@ while True:
             ced = 1
         totced = 0
         if total == 0:
+            break
