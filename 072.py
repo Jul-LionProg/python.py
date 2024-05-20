@@ -3,3 +3,4 @@ cont = ('zero', 'um', 'dois', 'três', 'quatro',
         'dez', 'onze', 'doze', 'treze', 'catorze',
         'quinze', 'dezesseis', 'dezessete', 'dezoito',
         'dezenove', 'vinte')
+while True:
