@@ -4,3 +4,4 @@ cont = ('zero', 'um', 'dois', 'três', 'quatro',
         'quinze', 'dezesseis', 'dezessete', 'dezoito',
         'dezenove', 'vinte')
 while True:
+    num = int(input('Digite um número entre 0 e 20: '))
