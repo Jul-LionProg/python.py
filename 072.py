@@ -9,3 +9,7 @@ while True:
         break
     print('Tente novamente. ', end='')
 print(f'Você digitou o número {cont[num]}')
+
+
+"""
+EXERCÍCIO 072: Número por Extenso
