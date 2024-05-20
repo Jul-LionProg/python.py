@@ -6,6 +6,7 @@ for c in range(primeiro, decimo + razao, razao):
 print('ACABOU')
 
 
+
 # DESAFIO 051 (Aula 013)
 # Desenvolva um programa que leia o PRIMEIRO TERMO e a RAZAO de uma (PA)
 # No final mostre os 10 primeiros termos dessa progressão.
