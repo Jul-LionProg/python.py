@@ -13,3 +13,4 @@ print(f'Você digitou o número {cont[num]}')
 
 """
 EXERCÍCIO 072: Número por Extenso
+Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
