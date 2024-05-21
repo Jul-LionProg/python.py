@@ -3,3 +3,4 @@ times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio',
          'Atlético', 'Botafogo', 'Altético-PR', 'Bahia',
          'São Paulo', 'Fluminense', 'Sport Recife',
          'EC Vitória', 'Coritiba', 'Avaí', 'Ponte Preta',
+         'Atlético-GO')
