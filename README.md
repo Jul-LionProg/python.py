@@ -292,11 +292,11 @@
 cédulas de cada valor serão entregues.
    * * OBS: Considere que o caixa possui cédulas de R$ 50, R$ 20, R$ 10 e R$ 1.
 
-**DEFASIO [072:](https://github.com/Jul-LionProg/python.py/blob/main/072.py) 📕⬎ ⬎ ⬎
+**DEFASIO [072:](https://github.com/Jul-LionProg/python.py/blob/main/072.py) 📕⬎ ⬎ ⬎**
    * Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
      Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
-**DESAFIO [073:](https://github.com/Jul-LionProg/python.py/blob/main/073.py) 📕⬎ ⬎ ⬎
+**DESAFIO [073:](https://github.com/Jul-LionProg/python.py/blob/main/073.py) 📕⬎ ⬎ ⬎**
    * Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação.
      Depois mostre:
    * * A) Os 5 primeiros.
