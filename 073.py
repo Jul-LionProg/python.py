@@ -7,3 +7,4 @@ times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio',
 print('-=' * 15)
 print(f'Lista de times do Brasileirão: {times}')
 print('-=' * 15)
+print(f'Os 5 primeiros são {times[0:5]}')
