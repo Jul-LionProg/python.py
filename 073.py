@@ -24,3 +24,4 @@ do Campeonato Brasileiro de Futebol, na ordem de colocação.
 Depois mostre:
 
 A) Os 5 primeiros.
+B) Os últimos 4 colocados.
