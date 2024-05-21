@@ -26,3 +26,5 @@ Depois mostre:
 A) Os 5 primeiros.
 B) Os últimos 4 colocados.
 C) Times em ordem alfabética.
+D) Em que posição está o time da Chapecoense.
+"""
