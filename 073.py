@@ -6,3 +6,4 @@ times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio',
          'Atlético-GO')
 print('-=' * 15)
 print(f'Lista de times do Brasileirão: {times}')
+print('-=' * 15)
