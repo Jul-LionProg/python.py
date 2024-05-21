@@ -1,3 +1,4 @@
 times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio',
          'Cruzeiro', 'Flamengo', 'Vasco', 'Chapecoense',
          'Atlético', 'Botafogo', 'Altético-PR', 'Bahia',
+         'Atlético', 'Botafogo', 'Altético-PR', 'Bahia',
