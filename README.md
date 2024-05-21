@@ -296,9 +296,8 @@ cédulas de cada valor serão entregues.
    * Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
      Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
-DESAFIO [073:]()**
-
-Crie uma tupla preenchida com os 20 primeiros colocados da Tabela
+**DESAFIO [073:]()**
+   * Crie uma tupla preenchida com os 20 primeiros colocados da Tabela
 do Campeonato Brasileiro de Futebol, na ordem de colocação.
 Depois mostre:
 
