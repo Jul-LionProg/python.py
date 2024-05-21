@@ -4,3 +4,4 @@ times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio',
          'São Paulo', 'Fluminense', 'Sport Recife',
          'EC Vitória', 'Coritiba', 'Avaí', 'Ponte Preta',
          'Atlético-GO')
+print('-=' * 15)
