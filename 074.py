@@ -10,3 +10,5 @@ print(f'O menor valor sorteado foi {min(numeros)}')
 
 """
 EXERCÍCIO 074: Maior e Menor Valores em Tupla
+
+Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
