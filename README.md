@@ -304,6 +304,6 @@ cédulas de cada valor serão entregues.
    * * C) Times em ordem alfabética.
    * * D) Em que posição está o time da Chapecoense.
 
-**DESAFIO [074:](https://github.com/Jul-LionProg/python.py/edit/main/074.py)**
+**DESAFIO [074:](https://github.com/Jul-LionProg/python.py/edit/main/074.py) 📙⬎ ⬎ ⬎**
    * Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
    * Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
