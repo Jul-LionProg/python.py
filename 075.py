@@ -10,3 +10,4 @@ else:
     print('O valor 3 não foi digitado em nenhuma posição')
 print('Os valores pares digitados foram ', end='')
 for n in num:
+    if n % 2 == 0:
