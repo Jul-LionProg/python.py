@@ -308,7 +308,7 @@ cédulas de cada valor serão entregues.
    * Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
    * Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 
-EXERCÍCIO 075: Análise de Dados em uma Tupla
+**DESAFIO [075:]()**
 
 Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
 A) Quantas vezes apareceu o valor 9.
