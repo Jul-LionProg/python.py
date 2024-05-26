@@ -308,7 +308,7 @@ cédulas de cada valor serão entregues.
    * Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
    * Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 
-**DESAFIO [075:](https://github.com/Jul-LionProg/python.py/blob/main/075.py)**
+**DESAFIO [075:](https://github.com/Jul-LionProg/python.py/blob/main/075.py) 📙⬎ ⬎ ⬎**
    * Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
    * * A) Quantas vezes apareceu o valor 9.
    * * B) Em que posição foi digitado o primeiro valor 3.
