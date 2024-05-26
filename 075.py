@@ -15,3 +15,5 @@ for n in num:
 
 """
 EXERCÍCIO 075: Análise de Dados em uma Tupla
+
+Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
