@@ -12,3 +12,6 @@ print('Os valores pares digitados foram ', end='')
 for n in num:
     if n % 2 == 0:
         print(n, end=' ')
+
+"""
+EXERCÍCIO 075: Análise de Dados em uma Tupla
