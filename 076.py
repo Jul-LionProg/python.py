@@ -8,3 +8,4 @@ listagem = ('Lápis', 1.75,
             'Canetas', 22.30,
             'Livro', 34.90)
 print('-' * 40)
+print(f'{"LISTAGEM DE PREÇOS":^40}')
