@@ -19,3 +19,4 @@ print('-' * 40)
 
 
 EXERCÍCIO 076: Lista de Preços com Tupla
+Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços,
