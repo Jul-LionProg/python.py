@@ -313,3 +313,9 @@ cédulas de cada valor serão entregues.
    * * A) Quantas vezes apareceu o valor 9.
    * * B) Em que posição foi digitado o primeiro valor 3.
    * * C) Quais foram os números pares.
+
+
+**DESAFIO [076:]()**
+Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços,
+na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+"""
