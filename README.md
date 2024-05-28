@@ -316,6 +316,5 @@ cédulas de cada valor serão entregues.
 
 
 **DESAFIO [076:](https://github.com/Jul-LionProg/python.py/blob/main/076.py) 📗 ⬎ ⬎ ⬎**
-Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços,
-na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
-"""
+   * Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+     
