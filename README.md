@@ -318,5 +318,5 @@ cédulas de cada valor serão entregues.
 **DESAFIO [076:](https://github.com/Jul-LionProg/python.py/blob/main/076.py) 📗 ⬎ ⬎ ⬎**
    * Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
      
-  **DESAFIO [077:](https://github.com/Jul-LionProg/python.py/blob/main/077.py)**
+  **DESAFIO [077:](https://github.com/Jul-LionProg/python.py/blob/main/077.py) 📙 ⬎ ⬎ ⬎**
      * Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
