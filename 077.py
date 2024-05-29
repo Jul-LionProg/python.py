@@ -7,3 +7,8 @@ for p in palavras:
         if letra.lower() in 'aeiou':
             print(letra, end=' ')
 
+
+"""
+EXERCÍCIO 077: Contando Vogais em Tupla
+
+Crie um programa que tenha uma tupla com várias palavras (não usar acentos).
