@@ -12,3 +12,4 @@ for c in range(0, 5):
 print('=-' * 30)
 print(f'Você digitou os valores {listanum}')
 print(f'O maior valor digitado foi {mai} nas posições ', end='')
+for i, v in enumerate(listanum):
