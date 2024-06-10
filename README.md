@@ -320,3 +320,6 @@ cédulas de cada valor serão entregues.
      
   **DESAFIO [077:](https://github.com/Jul-LionProg/python.py/blob/main/077.py) 📙 ⬎ ⬎ ⬎**
      * Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+
+**DESAFIO [078:](https://github.com/Jul-LionProg/python.py/blob/main/078.py)**
+   * Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
