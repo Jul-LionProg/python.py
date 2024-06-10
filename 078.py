@@ -6,3 +6,4 @@ for c in range(0, 5):
     if c == 0:
     else:
         if listanum[c] > mai:
+            mai = listanum[c]
