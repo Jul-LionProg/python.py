@@ -9,3 +9,4 @@ for c in range(0, 5):
             mai = listanum[c]
         if listanum[c] < men:
             men = listanum[c]
+print('=-' * 30)
