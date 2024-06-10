@@ -10,3 +10,4 @@ for c in range(0, 5):
         if listanum[c] < men:
             men = listanum[c]
 print('=-' * 30)
+print(f'Você digitou os valores {listanum}')
