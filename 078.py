@@ -1,1 +1,2 @@
 listanum = []
+mai = 0
