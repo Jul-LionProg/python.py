@@ -11,3 +11,4 @@ for c in range(0, 5):
             men = listanum[c]
 print('=-' * 30)
 print(f'Você digitou os valores {listanum}')
+print(f'O maior valor digitado foi {mai} nas posições ', end='')
