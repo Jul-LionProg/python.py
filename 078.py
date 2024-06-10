@@ -14,3 +14,4 @@ print(f'Você digitou os valores {listanum}')
 print(f'O maior valor digitado foi {mai} nas posições ', end='')
 for i, v in enumerate(listanum):
     if v == mai:
+        print(f'{i}... ', end='')
