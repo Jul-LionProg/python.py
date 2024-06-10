@@ -8,3 +8,4 @@ for c in range(0, 5):
         if listanum[c] > mai:
             mai = listanum[c]
         if listanum[c] < men:
+            men = listanum[c]
