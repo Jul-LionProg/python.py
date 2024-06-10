@@ -17,3 +17,4 @@ for i, v in enumerate(listanum):
         print(f'{i}... ', end='')
 print()
 print(f'O menor valor digitado foi {men} nas posições ', end='')
+for i, v in enumerate(listanum):
