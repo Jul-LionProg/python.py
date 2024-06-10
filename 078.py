@@ -7,3 +7,4 @@ for c in range(0, 5):
     else:
         if listanum[c] > mai:
             mai = listanum[c]
+        if listanum[c] < men:
