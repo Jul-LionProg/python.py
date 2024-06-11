@@ -6,3 +6,4 @@ while True:
       print('Valor adicionado com sucesso...')
   else:
       print('Valor duplicado! Não vou adicionar...')
+  r = str(input('Quer continuar[S/N]?'))
