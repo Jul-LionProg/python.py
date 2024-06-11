@@ -10,3 +10,4 @@ while True:
     if r in 'Nn':
         break
 print('-=' * 30)
+numeros.sort()
