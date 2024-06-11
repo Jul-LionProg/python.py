@@ -11,3 +11,4 @@ while True:
         break
 print('-=' * 30)
 numeros.sort()
+print(f'Voce digitou os valores {numeros}')
