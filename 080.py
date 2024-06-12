@@ -4,3 +4,4 @@ for c in range(0, 5):
   if c == 0 or n > lista[-1]:
       lista.append(n)
       print('Adicionado ao final da lista...')
+  else:
