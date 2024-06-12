@@ -16,5 +16,7 @@ print('-=' * 30)
 print(f'Os valores digitados em ordemforam {lista}')
 
 
-
-**DESAFIO [080:]()**
+'''
+DESAFIO [080:]()**
+Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (SEM USAR O sort()).
+'''
