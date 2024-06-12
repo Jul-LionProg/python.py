@@ -6,3 +6,5 @@ for c in range(0, 5):
       print('Adicionado ao final da lista...')
   else:
       pos = 0
+      while pos < len(lista):
+        
