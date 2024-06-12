@@ -328,5 +328,5 @@ cédulas de cada valor serão entregues.
    * Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista.
    * Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
-**DESAFIO [080:]()**
+**DESAFIO [080:](https://github.com/Jul-LionProg/python.py/blob/main/080.py)**
    * Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (SEM USAR O sort()).
