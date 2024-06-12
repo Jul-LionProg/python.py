@@ -11,3 +11,4 @@ for c in range(0, 5):
               lista.insert(pos, n)
               print(f'adicione na posição {pos} da lista...')
               break
+          pos += 1
