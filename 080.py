@@ -7,4 +7,4 @@ for c in range(0, 5):
   else:
       pos = 0
       while pos < len(lista):
-        
+          if n <= lista[pos]: 
