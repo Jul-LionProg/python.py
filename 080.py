@@ -12,3 +12,4 @@ for c in range(0, 5):
               print(f'adicione na posição {pos} da lista...')
               break
           pos += 1
+print('-=' * 30)
