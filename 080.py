@@ -5,3 +5,4 @@ for c in range(0, 5):
       lista.append(n)
       print('Adicionado ao final da lista...')
   else:
+      pos = 0
