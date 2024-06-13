@@ -16,3 +16,4 @@ else:
 
 DESAFIO 081 
 Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, mostre:
+A) Quantos numeros foram digitados:
