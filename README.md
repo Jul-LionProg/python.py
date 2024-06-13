@@ -330,3 +330,9 @@ cédulas de cada valor serão entregues.
 
 **DESAFIO [080:](https://github.com/Jul-LionProg/python.py/blob/main/080.py) 📕⬎ ⬎ ⬎**
    * Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (SEM USAR O sort()).
+     
+**DESAFIO [081:]()** 
+Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, mostre:
+A) Quantos numeros foram digitados:
+B) A lista de valores, ordenada de forma decrecente:
+C) Se o valor 5 foi digitado e esta ou não na lista:
