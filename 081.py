@@ -6,3 +6,4 @@ while True:
       break
 print('-=' * 30)
 print(f'Voce digite {len(valores)} elementos. ')
+valores.sort(reverse=True)
