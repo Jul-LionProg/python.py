@@ -14,3 +14,5 @@ else:
     print('O valor 5 não foi encontrado na lista!')
 
 
+DESAFIO 081 
+Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, mostre:
