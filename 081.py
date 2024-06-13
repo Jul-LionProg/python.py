@@ -1,1 +1,2 @@
 valores = []
+while True:
