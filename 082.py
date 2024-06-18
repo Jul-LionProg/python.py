@@ -1,1 +1,2 @@
 num =  list()
+pares = list()
