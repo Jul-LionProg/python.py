@@ -6,3 +6,4 @@ while = True:
   resp = str(input('quer continuar [N/Y]'))
   if resp in 'nN':
     break
+for i, v in enumerate(num):
