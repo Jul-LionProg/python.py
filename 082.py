@@ -11,3 +11,4 @@ for i, v in enumerate(num):
     pares.append(v)
   elif v % 2 == 1:
         impares.append(v)
+print('-= *' 30)
