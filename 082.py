@@ -8,3 +8,4 @@ while = True:
     break
 for i, v in enumerate(num):
   if v % 2 == 0:
+    pares.append(v)
