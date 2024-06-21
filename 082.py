@@ -10,3 +10,4 @@ for i, v in enumerate(num):
   if v % 2 == 0:
     pares.append(v)
   elif v % 2 == 1:
+        impares.append(v)
