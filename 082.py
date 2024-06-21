@@ -7,3 +7,4 @@ while = True:
   if resp in 'nN':
     break
 for i, v in enumerate(num):
+  if v % 2 == 0:
