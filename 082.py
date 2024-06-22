@@ -14,4 +14,9 @@ for i, v in enumerate(num):
 print('-= *' 30)
 print(f'A lista completa é {num}')
 print(f'A lista de pares é {pares}')
-print(f'{A lista de impares é {impares}')
+print(f'{A lista de impares é {impare)
+'''
+DESAFIO 082
+Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares
+digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
+''
