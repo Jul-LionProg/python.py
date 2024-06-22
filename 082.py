@@ -22,4 +22,4 @@ print(f'A lista de ímpares é {impares}')
 DESAFIO 082
 Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares
 digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
-''
+'''
