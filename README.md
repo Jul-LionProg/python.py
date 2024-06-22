@@ -337,6 +337,6 @@ cédulas de cada valor serão entregues.
    * * B) A lista de valores, ordenada de forma decrecente:
    * * C) Se o valor 5 foi digitado e esta ou não na lista:
 
-DESAFIO 082
+**DESAFIO [082]()**
 Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares
 digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
