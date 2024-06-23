@@ -7,4 +7,4 @@ for simb in expr:
         if len(pilha) > 0:
             pilha.pop()
         else:
-            
+            pilha.append(')')
