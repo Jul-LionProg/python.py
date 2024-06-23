@@ -10,3 +10,4 @@ for simb in expr:
             pilha.append(')')
             break
 if len(pilha) == 0:
+    print('sua espressão esta valida!')
