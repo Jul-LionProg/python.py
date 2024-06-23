@@ -5,3 +5,5 @@ for simb in expr:
         pilha.append('(')
     elif simb == ')':
         if len(pilha) > 0:
+            pilha.pop()
+        
