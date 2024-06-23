@@ -9,3 +9,4 @@ for simb in expr:
         else:
             pilha.append(')')
             break
+if len(pilha) == 0:
