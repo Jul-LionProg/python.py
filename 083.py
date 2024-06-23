@@ -10,10 +10,9 @@ for simb in expr:
             pilha.append(')')
             break
 if len(pilha) == 0:
-    print('sua expressão esta válida!')
+    print('Sua expressão está válida!')
 else:
     print('Sua expressão está errada!')
-
 
 
 '''
