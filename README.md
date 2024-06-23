@@ -341,6 +341,6 @@ cédulas de cada valor serão entregues.
    * Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares
 digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
 
-**DESAFIO [083]:(https://github.com/Jul-LionProg/python.py/blob/main/083.py) 📙 ⬎ ⬎ ⬎**
+**DESAFIO [083]: 📙 ⬎ ⬎ ⬎**
    * Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá
 analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
