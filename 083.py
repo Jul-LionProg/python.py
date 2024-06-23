@@ -6,4 +6,5 @@ for simb in expr:
     elif simb == ')':
         if len(pilha) > 0:
             pilha.pop()
-        
+        else:
+            
