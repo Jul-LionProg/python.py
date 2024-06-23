@@ -18,5 +18,6 @@ else:
 
 '''
 DESAFIO 083
-Crie um programa onde o usuario digite uma
+Crie um programa onde o usuario digite uma expressao qualquer que use parenteses.
+Seu aplicativo deverar analizar se a exprssao passada esta com os parenteses aberto e fechado na orden correta
 '''
