@@ -8,3 +8,4 @@ for simb in expr:
             pilha.pop()
         else:
             pilha.append(')')
+            break
