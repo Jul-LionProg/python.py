@@ -11,3 +11,5 @@ for simb in expr:
             break
 if len(pilha) == 0:
     print('sua espressão esta valida!')
+else:
+    
