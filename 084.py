@@ -25,3 +25,4 @@ for p in princ:
 print()
 print(f'O menor peso foi de {men} kg. Peso de ', end='')
 for p in princ:
+    if p[1] == men:
