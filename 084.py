@@ -28,3 +28,11 @@ for p in princ:
     if p[1] == men:
         print(f'[{p[0]}] ', end='')
 print()
+
+
+'''
+DESAFIO 084
+Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+
+A) Quantas pessoas foram cadastradas.
+'''
