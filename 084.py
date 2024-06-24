@@ -1,4 +1,6 @@
 temp = []
 princ = []
 mai = men = 0
-while True
+while True:
+  temp.append(str(input('Nome: ')))
+  temp.append(float(input('Peso: ')))
