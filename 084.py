@@ -6,3 +6,4 @@ while True:
   temp.append(float(input('Peso: ')))
   if len(princ) ===0:
     mai = men = temp[1]
+  else:
