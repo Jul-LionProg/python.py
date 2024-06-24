@@ -36,4 +36,5 @@ Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma
 
 A) Quantas pessoas foram cadastradas.
 B) Uma listagem com as pessoas mais pesadas.
+C) Uma listagem com as pessoas mais leves.
 '''
