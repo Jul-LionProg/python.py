@@ -8,3 +8,4 @@ while True:
     mai = men = temp[1]
   else:
       if temp[1] > mai:
+         mai = temp[1]
