@@ -15,3 +15,4 @@ while True:
     temp.clear()
     resp = str(input('Quer continuar [S/N]? '))
     if resp in 'Nn':
+        break
