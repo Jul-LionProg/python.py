@@ -17,3 +17,4 @@ while True:
     if resp in 'Nn':
         break
 print('-=' * 30)
+print(f'Ao todo, você cadastrou {len(princ)} pessoas.')
