@@ -7,3 +7,4 @@ while True:
   if len(princ) ===0:
     mai = men = temp[1]
   else:
+      if temp[1] > mai:
