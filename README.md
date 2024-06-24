@@ -344,3 +344,12 @@ digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
 **DESAFIO [083:](https://github.com/Jul-LionProg/python.py/blob/main/078.py) 📙 ⬎ ⬎ ⬎**
    * Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá
 analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+
+
+DESAFIO 084
+Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+
+A) Quantas pessoas foram cadastradas.
+B) Uma listagem com as pessoas mais pesadas.
+C) Uma listagem com as pessoas mais leves.
+'''
