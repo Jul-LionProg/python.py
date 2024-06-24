@@ -23,3 +23,4 @@ for p in princ:
     if p[1] == mai:
         print(f'[{p[0]}] ', end='')
 print()
+print(f'O menor peso foi de {men} kg. Peso de ', end='')
