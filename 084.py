@@ -16,3 +16,4 @@ while True:
     resp = str(input('Quer continuar [S/N]? '))
     if resp in 'Nn':
         break
+print('-=' * 30)
