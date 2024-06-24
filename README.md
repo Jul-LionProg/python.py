@@ -346,8 +346,8 @@ digitados, respectivamente. Ao final, mostre o conteúdo das tres listas gerads.
 analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
 
-**DESAFIO [084:]()**
+**DESAFIO [084:](https://github.com/Jul-LionProg/python.py/blob/main/084.py)**
    * Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
-   * *A) Quantas pessoas foram cadastradas.
-   * *B) Uma listagem com as pessoas mais pesadas.
-   * *C) Uma listagem com as pessoas mais leves.
+   * * A) Quantas pessoas foram cadastradas.
+   * * B) Uma listagem com as pessoas mais pesadas.
+   * * C) Uma listagem com as pessoas mais leves.
