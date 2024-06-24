@@ -26,3 +26,4 @@ print()
 print(f'O menor peso foi de {men} kg. Peso de ', end='')
 for p in princ:
     if p[1] == men:
+        print(f'[{p[0]}] ', end='')
