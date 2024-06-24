@@ -13,3 +13,4 @@ while True:
             men = temp[1]
     princ.append(temp[:])
     temp.clear()
+    resp = str(input('Quer continuar [S/N]? '))
