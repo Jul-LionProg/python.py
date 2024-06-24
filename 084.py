@@ -10,3 +10,4 @@ while True:
       if temp[1] > mai:
          mai = temp[1]
       if temp[1] < men:
+princ.append(temp[:])
