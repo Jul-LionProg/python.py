@@ -24,3 +24,4 @@ for p in princ:
         print(f'[{p[0]}] ', end='')
 print()
 print(f'O menor peso foi de {men} kg. Peso de ', end='')
+for p in princ:
