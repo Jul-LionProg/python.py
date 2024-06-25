@@ -351,3 +351,6 @@ analisar se a expressão passada está com os parênteses abertos e fechados na 
    * * A) Quantas pessoas foram cadastradas.
    * * B) Uma listagem com as pessoas mais pesadas.
    * * C) Uma listagem com as pessoas mais leves.
+**DASAFIO [085:]()**
+Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha
+separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
