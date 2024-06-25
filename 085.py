@@ -6,3 +6,4 @@ for c in range(1, 8):
       num[0].append(valor)
 else:
   num[0].append(valor)
+rpint('-=' * 30)
