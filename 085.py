@@ -8,3 +8,4 @@ else:
   num[0].append(valor)
 print('-=' * 30)
 num[0].sort()
+num[0].sort()
