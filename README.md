@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 
-| **DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py) 📗 ⬎ ⬎ ⬎**  |
+**DESAFIO [001:](https://github.com/Jul-LionProg/python.py/blob/main/001.py) 📗 ⬎ ⬎ ⬎**
 |  * Crie um programa que escreva "Ola Mundo" na tela.                                       |
 | -------------------------------------------------------------------------------------------|
 
