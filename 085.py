@@ -9,3 +9,4 @@ else:
 print('-=' * 30)
 num[0].sort()
 num[0].sort()
+print(f'Os valores pares dogotados foram: {num[0]}')
