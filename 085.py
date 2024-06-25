@@ -7,3 +7,4 @@ for c in range(1, 8):
 else:
   num[0].append(valor)
 print('-=' * 30)
+num[0].sort()
