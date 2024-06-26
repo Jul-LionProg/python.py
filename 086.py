@@ -11,5 +11,5 @@ for l in range(0, 3):
 
 '''
 DESAFIO 086
-Crie umprogama que crie uma matriz de dimensão 3x3 e
+Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
 '''
