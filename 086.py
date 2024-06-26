@@ -16,4 +16,6 @@ Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos
 1 [_][_][_]
 2 [_][_][_]
    0  1  2
+
+No final, monstre a matriz na tela, com a formatação correta.
 '''
