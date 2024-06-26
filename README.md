@@ -366,5 +366,5 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
   * 0 □  □ □
   * 1 □ □ □
   * 2 □ □ □
-  *  0  1  2
+   * 0  1  2
 * No final, monstre a matriz na tela, com a formatação correta.
