@@ -361,7 +361,7 @@ analisar se a expressão passada está com os parênteses abertos e fechados na 
    * Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha
 separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
 
-DESAFIO 086
+**DESAFIO [086:]()**
 Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
 0 [_][_][_]
 1 [_][_][_]
