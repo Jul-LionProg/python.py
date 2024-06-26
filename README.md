@@ -363,8 +363,8 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
 
 **DESAFIO [086:](https://github.com/Jul-LionProg/python.py/blob/main/086.py) 📕📕⬎ ⬎ ⬎**
    * Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
-  * 0 □  □ □
-  * 1 □ □ □
-  * 2 □ □ □
-  * * 0  1  2
+  * 0 ▏□ ▏□ ▏□ ▏
+  * 1 ▏□ ▏□ ▏□ ▏
+  * 2 ▏□ ▏□ ▏□ ▏
+  *   ▏0 ▏1 ▏2 ▏
 * No final, monstre a matriz na tela, com a formatação correta.
