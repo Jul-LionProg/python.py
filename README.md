@@ -360,3 +360,12 @@ analisar se a expressão passada está com os parênteses abertos e fechados na 
 **DASAFIO [085:](https://github.com/Jul-LionProg/python.py/blob/main/085.py) 📙 ⬎ ⬎ ⬎**
    * Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha
 separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
+
+DESAFIO 086
+Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+0 [_][_][_]
+1 [_][_][_]
+2 [_][_][_]
+   0  1  2
+
+No final, monstre a matriz na tela, com a formatação correta.
