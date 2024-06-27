@@ -45,7 +45,8 @@
 |----------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [013:](https://github.com/Jul-LionProg/python.py/edit/main/013.py) 📗⬎ ⬎ ⬎**
-   * Faça um algoritmo que leia o salário de um funcionario e mostre seu novo salário, com 30% de aumento.
+  | * Faça um algoritmo que leia o salário de um funcionario e mostre seu novo salário, com 30% de aumento.|
+|----------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [014:](https://github.com/Jul-LionProg/python.py/blob/main/014.py) 📕⬎ ⬎ ⬎**
    * Escreva um programa que converta uma temperatura digitada em °C e convertida em °F.
