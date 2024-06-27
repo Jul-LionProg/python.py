@@ -43,7 +43,7 @@
 
  **DESAFIO [012:](https://github.com/Jul-LionProg/python.py/blob/main/012.py) 📗⬎ ⬎ ⬎**
   | * Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.|
-|----------------------------------------------------------------------------------------------------------------------------------|
+  |-----------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [013:](https://github.com/Jul-LionProg/python.py/edit/main/013.py) 📗⬎ ⬎ ⬎**
   | * Faça um algoritmo que leia o salário de um funcionario e mostre seu novo salário, com 30% de aumento.|
