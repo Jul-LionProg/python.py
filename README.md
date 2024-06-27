@@ -38,7 +38,7 @@
 
  **DESAFIO [011:](https://github.com/Jul-LionProg/python.py/blob/main/011.py) 📗 ⬎ ⬎ ⬎**
   | * Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta-la, sabendo que a  cada litro de tinta, 
-  pinta uma área de 2m².
+       pinta uma área de 2m².
   |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
  **DESAFIO [012:](https://github.com/Jul-LionProg/python.py/blob/main/012.py) 📗⬎ ⬎ ⬎**
