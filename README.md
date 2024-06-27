@@ -49,7 +49,8 @@
 |----------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [014:](https://github.com/Jul-LionProg/python.py/blob/main/014.py) 📕⬎ ⬎ ⬎**
-   * Escreva um programa que converta uma temperatura digitada em °C e convertida em °F.
+|   * Escreva um programa que converta uma temperatura digitada em °C e convertida em °F.|
+|----------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [015:](https://github.com/Jul-LionProg/python.py/blob/main/015.py) 📕⬎ ⬎ ⬎**
    * Escreva um programa que  pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. 
