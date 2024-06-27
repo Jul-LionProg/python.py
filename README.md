@@ -53,9 +53,9 @@
 |----------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [015:](https://github.com/Jul-LionProg/python.py/blob/main/015.py) 📕⬎ ⬎ ⬎**
-   * Escreva um programa que  pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. 
+  | * Escreva um programa que  pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. |
    * Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$ 0.15 por Km rodado.
-
+|----------------------------------------------------------------------------------------------------------------------------------|
 **DESAFIO [016:](https://github.com/Jul-LionProg/python.py/blob/main/016.py) 📕⬎ ⬎ ⬎**
    * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
