@@ -37,9 +37,11 @@
  |----------------------------------------------------------------------------------------------------------------------------------|
 
  **DESAFIO [011:](https://github.com/Jul-LionProg/python.py/blob/main/011.py) 📗 ⬎ ⬎ ⬎**
-    * Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta-la, sabendo que a  cada litro de tinta, |pinta uma área de 2m².
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-      
+    * Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta-la, 
+      sabendo que a  cada litro de tinta, pinta uma área de 2m².
+  |-----------------------------------------------------------------------------------------------------------------------------------------------|
+
+ 
  **DESAFIO [012:](https://github.com/Jul-LionProg/python.py/blob/main/012.py) 📗⬎ ⬎ ⬎**
   | * Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.|
   |-----------------------------------------------------------------------------------------------------------------------------|
@@ -59,6 +61,7 @@
 
 **DESAFIO [016:](https://github.com/Jul-LionProg/python.py/blob/main/016.py) 📕⬎ ⬎ ⬎**
    * Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [017:](https://github.com/Jul-LionProg/python.py/blob/main/017.py) 📙⬎ ⬎ ⬎**
 
