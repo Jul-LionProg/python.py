@@ -5,3 +5,4 @@ for l in range(0, 3):
       matriz[l][c] = int(input(f'Digite um valor para [{l}, {c}]: '))
 print('-=' * 30)
 print(f'A soma dos vaores pares é {spar}.')
+for c in range(0, 3):
