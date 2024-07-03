@@ -16,3 +16,4 @@ for l in range(0, 3):
     scol += matriz[l][2]
 print(f'A soma dos valores da terceira coluna é {scol}.')
 for c in range(0, 3):
+    if c == 0:
