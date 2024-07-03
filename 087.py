@@ -10,3 +10,4 @@ for l in range(0, 3):
         if matriz[l][c] % 2 == 0:
             spar += matriz[l][c]
     print()
+print('-=' * 30)
