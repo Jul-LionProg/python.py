@@ -26,4 +26,5 @@ print(f'O maior valor da segunda linha é {mai}.')
 DESAFIO 087
 Aprimore o desafio anterior, monstrando no final:
 A) a soma do todos valores pares digitados.
+B) A soma dos valores da terceira coluna.
 '''
