@@ -12,3 +12,4 @@ for l in range(0, 3):
     print()
 print('-=' * 30)
 print(f'A soma dos valores pares é {spar}.')
+for l in range(0, 3):
