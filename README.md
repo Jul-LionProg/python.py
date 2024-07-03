@@ -378,7 +378,7 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
   * 3 ▏0   ▏1   ▏2   ▏
 * No final, monstre a matriz na tela, com a formatação correta.
 
-DESAFIO 087
+**DESAFIO [087:]()**
 Aprimore o desafio anterior, monstrando no final:
 A) A soma do todos valores pares digitados.
 B) A soma dos valores da terceira coluna.
