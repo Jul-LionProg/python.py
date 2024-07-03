@@ -13,3 +13,4 @@ for l in range(0, 3):
 print('-=' * 30)
 print(f'A soma dos valores pares é {spar}.')
 for l in range(0, 3):
+    scol += matriz[l][2]
