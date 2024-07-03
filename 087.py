@@ -11,3 +11,4 @@ for l in range(0, 3):
             spar += matriz[l][c]
     print()
 print('-=' * 30)
+print(f'A soma dos valores pares é {spar}.')
