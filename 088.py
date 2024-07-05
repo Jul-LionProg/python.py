@@ -16,3 +16,4 @@ while tot <= quant:
       cont += 1
     if cont >= 6:
       break
+liste.sort()
