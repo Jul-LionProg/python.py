@@ -19,3 +19,4 @@ while tot <= quant:
 lista.sort()
 jogos.append(lista[:])
 lista.clead()
+tot += 1
