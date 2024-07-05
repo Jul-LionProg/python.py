@@ -6,3 +6,4 @@ print('-' * 30)
 print('   JOGA NA MGA SENA   ')
 print('-' * 30)
 quant = int(input('Quantos jogos voce quer que eu sorteie?'))
+tot = 1
