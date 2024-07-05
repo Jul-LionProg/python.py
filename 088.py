@@ -9,4 +9,4 @@ quant = int(input('Quantos jogos voce quer que eu sorteie?'))
 tot = 1
 while tot <= quant:
   cont = 0
-while True:
+  while True:
