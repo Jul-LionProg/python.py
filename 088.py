@@ -11,4 +11,4 @@ while tot <= quant:
   cont = 0
   while True:
     num = randint(1, 60)
-ss
+    if num not in liste():
