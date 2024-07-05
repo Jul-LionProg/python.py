@@ -14,3 +14,4 @@ while tot <= quant:
     if num not in liste:
       liste.append(num)
       cont += 1
+    if cont >= 6:
