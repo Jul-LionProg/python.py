@@ -16,5 +16,6 @@ while tot <= quant:
       cont += 1
     if cont >= 6:
       break
-liste.sort()
+lista.sort()
 jogos.append(lista[:])
+lista.clead()
