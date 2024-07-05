@@ -10,3 +10,4 @@ tot = 1
 while tot <= quant:
   cont = 0
   while True:
+    num = randint(1, 60)
