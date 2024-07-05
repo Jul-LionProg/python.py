@@ -17,3 +17,4 @@ while tot <= quant:
     if cont >= 6:
       break
 liste.sort()
+jogos.append(lista[:])
