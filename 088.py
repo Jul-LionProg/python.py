@@ -12,4 +12,5 @@ while tot <= quant:
   while True:
     num = randint(1, 60)
     if num not in liste:
-      liste.append(num)      
+      liste.append(num)
+      cont += 1
