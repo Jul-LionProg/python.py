@@ -22,6 +22,7 @@ while tot <= quant:
     tot += 1
 print('-=' * 3, f' SORTEANDO {quant} JOGOS ', '-=' * 3)
 for i, l in enumerate(jogos):
+    print(f'Jogo {i + 1}: {l}')
 
 '''
 DESAFIO 088: Palpites Para a Mega Sena
