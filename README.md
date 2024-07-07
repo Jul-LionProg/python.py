@@ -383,7 +383,7 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
    * * A) A soma do todos valores pares digitados.
    * * B) A soma dos valores da terceira coluna.
    * * C) O maior valor da segunda linha.
-  * 0 |__|__|__|
+  * 0 ⬜⬜⬜ ◻◻◻◻⬜⬜⬜ 🤍🤍🤍
   * 1 ▏□   ▏□   ▏□   ▏
   * 2 ▏□   ▏□   ▏□   ▏
   * 3 ▏0   ▏1   ▏2   ▏
