@@ -372,7 +372,7 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
 
 **DESAFIO [086:](https://github.com/Jul-LionProg/python.py/blob/main/086.py) 📕📕⬎ ⬎ ⬎**
    * Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
-  * 0 ▏□   ▏□   ▏□   ▏
+  * 0 ▏⬜   ▏⬜   ▏⬜   ▏
   * 1 ▏□   ▏□   ▏□   ▏
   * 2 ▏□   ▏□   ▏□   ▏
   * 3 ▏0   ▏1   ▏2   ▏
@@ -384,9 +384,9 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
    * * B) A soma dos valores da terceira coluna.
    * * C) O maior valor da segunda linha.
   * 0 ⬜⬜⬜ ◻◻◻◻⬜⬜⬜ 🤍🤍🤍
-  * 1 |...|...|...▏
-  * 2 |...|...|...▏
-  * 3 |...|...|...▏
+  * 1 |. . .|. . .|. . . ▏
+  * 2 |. . .|. . .|. . . ▏
+  * 3 |. . .|. . .|. . . ▏
     
 **DESAFIO [088:](https://github.com/Jul-LionProg/python.py/blob/main/088.py) 📕📕📕⬎ ⬎ ⬎**
    * Palpites Para a Mega Sena
