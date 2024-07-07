@@ -388,8 +388,6 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
   * 2 ▏□   ▏□   ▏□   ▏
   * 3 ▏0   ▏1   ▏2   ▏
 DESAFIO 088
-EXERCÍCIO 087: Mais Sobre Matriz em Python
-
 Aprimore o desafio anterior, mostrando no final:
 
 A) A soma de todos os valores pares digitados.
