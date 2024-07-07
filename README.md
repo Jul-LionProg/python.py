@@ -387,7 +387,8 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
   * 1 ▏□   ▏□   ▏□   ▏
   * 2 ▏□   ▏□   ▏□   ▏
   * 3 ▏0   ▏1   ▏2   ▏
-DESAFIO 088
+    
+**DESAFIO [088:]()**
 Aprimore o desafio anterior, mostrando no final:
 
 A) A soma de todos os valores pares digitados.
