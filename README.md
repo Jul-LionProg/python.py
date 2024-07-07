@@ -372,10 +372,10 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
 
 **DESAFIO [086:](https://github.com/Jul-LionProg/python.py/blob/main/086.py) 📕📕⬎ ⬎ ⬎**
    * Crie umprogama que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
-  * 0 ▏⬜   ▏⬜   ▏⬜   ▏
-  * 1 ▏□   ▏□   ▏□   ▏
-  * 2 ▏□   ▏□   ▏□   ▏
-  * 3 ▏0   ▏1   ▏2   ▏
+  * 0 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 1 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 2 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 3 |. 0 .|. 2 .|. 3 . ▏
 * No final, monstre a matriz na tela, com a formatação correta.
 
 **DESAFIO [087:](https://github.com/Jul-LionProg/python.py/blob/main/087.py) 📕📕📕⬎ ⬎ ⬎**
@@ -383,10 +383,10 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
    * * A) A soma do todos valores pares digitados.
    * * B) A soma dos valores da terceira coluna.
    * * C) O maior valor da segunda linha.
-  * 0 ⬜⬜⬜ ◻◻◻◻⬜⬜⬜ 🤍🤍🤍
-  * 1 |. . .|. . .|. . . ▏
-  * 2 |. . .|. . .|. . . ▏
-  * 3 |. . .|. . .|. . . ▏
+  * 0 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 1 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 2 ▏⬜   ▏⬜   ▏⬜  ▏
+  * 3 |. 0 .|. 2 .|. 3 . ▏
     
 **DESAFIO [088:](https://github.com/Jul-LionProg/python.py/blob/main/088.py) 📕📕📕⬎ ⬎ ⬎**
    * Palpites Para a Mega Sena
