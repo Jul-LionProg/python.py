@@ -21,6 +21,10 @@ jogos.append(lista[:])
 lista.clead()
 tot += 1
 
-
+'''
 DESAFIO 088
 Aprimore o desafio anterior, mostrando no final
+A) A soma de todos os valores pares digitados.
+B) A soma dos valores  da terceira coluna.
+
+'''
