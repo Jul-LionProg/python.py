@@ -389,8 +389,6 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
   * 3 ▏0   ▏1   ▏2   ▏
     
 **DESAFIO [088:](https://github.com/Jul-LionProg/python.py/blob/main/088.py)**
-
-'''
 DESAFIO 088: Palpites Para a Mega Sena
 Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos
 serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
