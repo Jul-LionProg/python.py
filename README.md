@@ -38,7 +38,7 @@
 
 **DESAFIO [011:](https://github.com/Jul-LionProg/python.py/blob/main/011.py) 📗 ⬎ ⬎ ⬎**
   | Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aŕea e a quantidade de tinta necessaria para pinta-la, sabendo que a  cada litro de tinta, pinta uma área de 2m².
-  |---------------------------------------------------------------------------------------------------------------------------------------------------------------..--------------------------------------|
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [012:](https://github.com/Jul-LionProg/python.py/blob/main/012.py) 📗⬎ ⬎ ⬎**
   | Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.|
@@ -54,7 +54,7 @@
 
 **DESAFIO [015:](https://github.com/Jul-LionProg/python.py/blob/main/015.py) 📕⬎ ⬎ ⬎**
   | Escreva um programa que  pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$ 0.15 por Km rodado.
-  |-------------------------------------------------------------.........................................................--------------------------------------------------------------------------------|
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [016:](https://github.com/Jul-LionProg/python.py/blob/main/016.py) 📕⬎ ⬎ ⬎**
   | Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porção Inteira.|
@@ -69,14 +69,12 @@
   |--------------------------------------------------------------------------------------------------------------------------------|
  
 **DESAFIO [019:](https://github.com/Jul-LionProg/python.py/blob/main/019.py) 📙⬎ ⬎ ⬎**
-  | Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
-  | Faça um programa que aajude ele, lendo o nome deles e escrevendo o nome do escolhido.
-  |-------------------------------------------------------------------------------------------------------------------------------|
+  | Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que aajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+  |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [020:](https://github.com/Jul-LionProg/python.py/blob/main/020.py) 📙⬎ ⬎ ⬎**
-  | O mesmo professor do desafior anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
-  | Faça um programa que leia o nome dos alunose mostre a ordem sorteada.
-  |--------------------------------------------------------------------------------------------------------------------------------|
+  | O mesmo professor do desafior anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos alunose mostre a ordem sorteada.
+  |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
      
 **DEFASIO [021:](https://github.com/Jul-LionProg/python.py/blob/main/021.py) 📕⬎ ⬎ ⬎**
    Faça um programa em Python que abra uma arquivo com audio em MP3. Estudar o 'pygame'  mais utilizado para jogos mais da pra fazer tipo um despertador.|
