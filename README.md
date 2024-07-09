@@ -77,12 +77,14 @@
   |-------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [020:](https://github.com/Jul-LionProg/python.py/blob/main/020.py) 📙⬎ ⬎ ⬎**
-   * O mesmo professor do desafior anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
-   * Faça um programa que leia o nome dos alunose mostre a ordem sorteada.
+  | O mesmo professor do desafior anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
+  | Faça um programa que leia o nome dos alunose mostre a ordem sorteada.
+  |--------------------------------------------------------------------------------------------------------------------------------|
      
 **DEFASIO [021:](https://github.com/Jul-LionProg/python.py/blob/main/021.py) 📕⬎ ⬎ ⬎**
    * Faça um programa em Python que abra uma arquivo com audio em MP3.
-   * Estudar o 'pygame'  mais utilizado para jogos mais da pra fazer tipo um despertador.
+    Estudar o 'pygame'  mais utilizado para jogos mais da pra fazer tipo um despertador.
+  |--------------------------------------------------------------------------------------------------------------------------------|
      
 **DESAFIO [022:](https://github.com/Jul-LionProg/python.py/blob/main/022.py) 📙⬎ ⬎ ⬎**
    * Crie um programa que leia o nome completo de uma pessoa e mostre:
