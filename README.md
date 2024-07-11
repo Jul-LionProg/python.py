@@ -94,9 +94,11 @@
 **DESAFIO [024:](https://github.com/Jul-LionProg/python.py/blob/main/024.py) 📗⬎ ⬎ ⬎**
   | Crie um programa que leia o nome da cidade e digo se o nome começa com "SANTO".
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  
 **DESAFIO [025:](https://github.com/Jul-LionProg/python.py/blob/main/025.py) 📗⬎ ⬎ ⬎**
   | Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA" no nome.
-  |--------------------------------------------------------------------------------------------------|     
+  |--------------------------------------------------------------------------------------------------|
+  
 **DESAFIO [026:](https://github.com/Jul-LionProg/python.py/blob/main/026.py) 📙⬎ ⬎ ⬎**
    * Faça um programa que leia uma frase pelo teclado e mostre:
    * * Quantos vezes aparece a leia "A".
@@ -122,16 +124,20 @@
 **DESAFIO [030:](https://github.com/Jul-LionProg/python.py/blob/main/030.py) 📗⬎ ⬎ ⬎**
   | Crei um programa que leia um número inteiro e mostre na tela se elçe é PAR ou IMPAR.
   |--------------------------------------------------------------------------------------|
+  
 **DESAFIO [031:](https://github.com/Jul-LionProg/python.py/blob/main/031.py) 📙⬎ ⬎ ⬎**
   | Desenvolva um programa que pergunte a distancia de uma viagem em Km.
   | Calcule o preço da passagem,cobrando R$0,50 por Km para viagens até 200Km e R$0,45 para viagens mais longas. 
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  
 **DESAFIO [032:](https://github.com/Jul-LionProg/python.py/blob/main/032.py) 📕⬎ ⬎ ⬎**
    | Faça um programa que leia um ano qualquer e mostre se ele é BISEXTO.
    |--------------------------------------------------------------------------------------|
+   
 **DESAFIO [033:](https://github.com/Jul-LionProg/python.py/blob/main/033.py) 📙⬎ ⬎ ⬎**
   | Faça um programa que leia trẽs números e mostre qual é o MAIOR e o MENOR.
   |---------------------------------------------------------------------------------------|
+  
 **DESAFIO [034:](https://github.com/Jul-LionProg/python.py/blob/main/034.py) 📙⬎ ⬎ ⬎**
    * Escreva um programa que pergunte o salário de um funcionario e calcule o valor do seu aumento.
    * * Para salários superiores a 1.250,00 calcule um aumento de 10%.
