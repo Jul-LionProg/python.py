@@ -212,7 +212,8 @@
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [048:](https://github.com/Jul-LionProg/python.py/blob/main/048.py) 📙⬎ ⬎ ⬎**
-   * Faça um programa que calcule a soma entre todos os numeros impares que são multiplos de 3 e que se encontram no intervalo de 1 a 500.
+  | Faça um programa que calcule a soma entre todos os numeros impares que são multiplos de 3 e que se encontram no intervalo de 1 a 500.
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [049:](https://github.com/Jul-LionProg/python.py/blob/main/049.py) 📗⬎ ⬎ ⬎**
    * Refaça o (DESAIO 009) Só que agora utilisando LOÇO [FOR].
