@@ -12,4 +12,6 @@ print('-=' * 30)
 print(f'{"Nº":<4}{"NOME":<10}{"MEDIA":>8}')
 print('-' * 26)
 for i, a  in enumerate(ficha)
-    print('-' * 30)
+    print(f'{i:<4}{a[0]:<10}{a[2]:>8.1f}')
+while True:
+  print('-' * 30)
