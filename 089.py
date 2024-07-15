@@ -10,3 +10,4 @@ while True:
       break
 print('-=' * 30)
 print(f'{"Nº":<4}{"NOME":<10}{"MEDIA":>8}')
+print('-' * 26)
