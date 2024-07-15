@@ -19,3 +19,4 @@ while True:
     if opc == 999:
         print('FINALIZADO...')
         break
+    if opc <= len(ficha) - 1
