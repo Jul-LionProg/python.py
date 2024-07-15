@@ -20,3 +20,4 @@ while True:
         print('FINALIZADO...')
         break
     if opc <= len(ficha) - 1
+        print(f'Notes de {ficha[opc][0]} são {ficha[opc][1]}')
