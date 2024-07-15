@@ -230,7 +230,8 @@
    * * PA = pular de 2 em 2 ou (4 em 4) (7 em 7) etcs...
 
 **DESAFIO [052](https://github.com/Jul-LionProg/python.py/blob/main/052.py) 📕⬎ ⬎ ⬎**
-   * Faça um programa que leia um número inteiro e diga se ele é ou não primo.
+  | Faça um programa que leia um número inteiro e diga se ele é ou não primo.
+  |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
      
 **DESAFIO [053:](https://github.com/Jul-LionProg/python.py/blob/main/053.py) 📙⬎ ⬎ ⬎**
    * Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
