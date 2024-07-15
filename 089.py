@@ -9,3 +9,4 @@ while True:
   if resp in 'Nn':
       break
 print('-=' * 30)
+print(f'{"Nº":<4}{"NOME":<10}{"MEDIA":>8}')
