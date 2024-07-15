@@ -1,1 +1,2 @@
 ficha = list()
+while True:
