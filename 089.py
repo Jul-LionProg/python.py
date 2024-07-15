@@ -11,3 +11,4 @@ while True:
 print('-=' * 30)
 print(f'{"Nº":<4}{"NOME":<10}{"MEDIA":>8}')
 print('-' * 26)
+for i, a  in enumerate(ficha)
