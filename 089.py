@@ -1,1 +1,1 @@
-
+ficha = list()
