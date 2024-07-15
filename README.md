@@ -220,7 +220,8 @@
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [050:](https://github.com/Jul-LionProg/python.py/blob/main/050.py) 📙⬎ ⬎ ⬎**
-   * Desenvolva um programa que leia 6 numeros int e mostre a soma apenas daqueles que forem PAR. Se o valor for IMPAR. Desconsidere.
+   | Desenvolva um programa que leia 6 numeros int e mostre a soma apenas daqueles que forem PAR. Se o valor for IMPAR. Desconsidere.
+   |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [051:](https://github.com/Jul-LionProg/python.py/blob/main/051.py) 📕⬎ ⬎ ⬎**
    * Desenvolva um programa que leia o PRIMEIRO TERMO e a RAZAO de uma (PA)
