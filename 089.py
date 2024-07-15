@@ -17,3 +17,4 @@ while True:
     print('-' * 35)
     opc = int(input('Mostrar notas de qual aluno (999 interrompe)? '))
     if opc == 999:
+        print('FINALIZADO...')
