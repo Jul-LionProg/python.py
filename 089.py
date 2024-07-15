@@ -6,3 +6,4 @@ while True:
   media = (nota1, nota2) / 2
   ficha.append([nome, [nota1, nota2], media])
   resp = str(input('Quer continuar [S/N]? ')
+  if resp in 'Nn':
