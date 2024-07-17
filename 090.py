@@ -1,1 +1,2 @@
 aluno = disct()
+aluno['nome']
