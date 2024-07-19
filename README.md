@@ -281,6 +281,7 @@
 **DESAFIO [063:](https://github.com/Jul-LionProg/python.py/blob/main/063.py) 📙⬎ ⬎ ⬎**
    *  Escreva um programa que leia um Numero N inteiro qualquer e mostre na tela os N primeiros elementos de uma Fibonacci.
    * * Ex: 0 → 1 → 1 → 2 → 3 → 5 → 8...
+  |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [064:](https://github.com/Jul-LionProg/python.py/blob/main/064.py) 📙⬎ ⬎ ⬎**
    *  Crie um progroma que leia varios numeros inteiros pelo teclado.
