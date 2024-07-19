@@ -234,7 +234,8 @@
   |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
      
 **DESAFIO [053:](https://github.com/Jul-LionProg/python.py/blob/main/053.py) 📙⬎ ⬎ ⬎**
-   * Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
+   | Crie um program que leia uma frase qualquer e diga se ela é um palindroma desconsiderando os espaços.
+   |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [054:](https://github.com/Jul-LionProg/python.py/blob/main/054.py) 📙⬎ ⬎ ⬎**
    * Crie um programa que leia o ano de nascimento de sete pessoas.
@@ -270,7 +271,8 @@
      * 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 **DESAFIO [061:](https://github.com/Jul-LionProg/python.py/blob/main/061.py) 📕⬎ ⬎ ⬎**
-   *  Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
+   | Refaça o DESAFIO 051, lendo o primeiro termo ea razao de uma PA, mostrando os 10 primeiro termos da progressão usando a estrutura WHILE.
+   |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [062:](https://github.com/Jul-LionProg/python.py/blob/main/062.py) 📕⬎ ⬎ ⬎**
    *  Melhore o DESAFIO 061, perguntando para o usuaio se ele quer mostrar mais algum termos,
