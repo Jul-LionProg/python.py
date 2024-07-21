@@ -10,3 +10,4 @@ else:
     aluno['situação'] = 'Reprovado'
 print('-=' * 30)
 for k, v in aluno.ittem():
+    print(f'  -{k} é igual a {v}')
