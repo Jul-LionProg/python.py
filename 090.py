@@ -9,3 +9,4 @@ elif 5 <= aluno['média'] < 7:
 else:
     aluno['situação'] = 'Reprovado'
 print('-=' * 30)
+for k, v in aluno.ittem():
