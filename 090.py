@@ -7,4 +7,4 @@ if aluno['media'] >= 7:
 elif 5 <= aluno['média'] < 7:
     aluno['situação'] = 'Recuperação'
 else:
-    
+    aluno['situação'] = 'Reprovado'
