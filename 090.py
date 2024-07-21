@@ -8,3 +8,4 @@ elif 5 <= aluno['média'] < 7:
     aluno['situação'] = 'Recuperação'
 else:
     aluno['situação'] = 'Reprovado'
+print('-=' * 30)
