@@ -412,7 +412,7 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
      notas de cada aluno individualmente.
 
 
-**DESAFIO [090:]()**
+**DESAFIO [090:](https://github.com/Jul-LionProg/python.py/blob/main/090.py) 📙 ⬎ ⬎ ⬎**
    | Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|
 
