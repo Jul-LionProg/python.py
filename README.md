@@ -416,5 +416,6 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
    | Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-**DESAFIO [091:]) 📙 ⬎ ⬎ ⬎**
+**DESAFIO [091:](https://github.com/Jul-LionProg/python.py/blob/main/091.py) 📙 ⬎ ⬎ ⬎**
    | Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
