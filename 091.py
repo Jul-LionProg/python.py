@@ -12,3 +12,4 @@ for k, v jogo.items():
     sleep(1)
 ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
 print('-=' * 30)
+print('  == RANKING DOS JOGADORES == ')
