@@ -15,3 +15,5 @@ print('-=' * 30)
 print('  == RANKING DOS JOGADORES == ')
 for i, v in enumerate(ranking):
     print(f'  {i + 1}º lugar: {v[0]}.')
+    sleep(1)
+        
