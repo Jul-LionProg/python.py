@@ -10,3 +10,4 @@ print('Valores sorteados: ')
 for k, v jogo.items():
     print('-=' * 30)
     sleep(1)
+ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
