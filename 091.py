@@ -14,3 +14,4 @@ ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
 print('-=' * 30)
 print('  == RANKING DOS JOGADORES == ')
 for i, v in enumerate(ranking):
+    print(f'  {i + 1}º lugar: {v[0]}.')
