@@ -8,4 +8,5 @@ jogo = {'jogador1': randint(1, 6),
 ranking = list()
 print('Valores sorteados: ')
 for k, v jogo.items():
-print('-=' * 30)
+    print('-=' * 30)
+    sleep(1)
