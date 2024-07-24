@@ -5,3 +5,5 @@ nasc = int(input('Ano de nascimento: '))
 dados['idade'] = datetime.now().year - nasc
 dados['ctps'] = int(input('Carteira de Trabalho (0 não tem): '))
 if dados['cpts'] != 0:
+  dados['contratação'] = int(input('Ano de contratação: '))
+  
