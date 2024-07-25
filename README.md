@@ -422,7 +422,7 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
 |Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário. Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar. vencedor tirou o maior número no dado.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-DESAFIO 093:
+**DESAFIO [093:]()**
 Crei um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. 
 Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso sera guardado em um dicionario, incluindo o total de gols feitos durante o campionato.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
