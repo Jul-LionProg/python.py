@@ -13,4 +13,10 @@ for k, v in dados.items():
     print(f'  - {k} tem o valor{v}')
 
 
+
+'''
 DESAFIO 092:
+Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionario.
+Se por acasso a CPTSfor diferente de zero, o dicionario recebera tambem o ano de contratação e o salario.
+calcule e acrescente, alem da idade, com quantos anos a pessoa vai se aposentar.
+'''
