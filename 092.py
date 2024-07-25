@@ -10,3 +10,4 @@ if dados['cpts'] != 0:
   dados['aponsentadoria'] = dados['idade'] + ((dados[contratação] + 35) - datetime.now().year)
 print('-=' * 30)
 for k, v in dados.items():
+    print(f'  - {k} tem o valor{v}')
