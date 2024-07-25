@@ -9,3 +9,4 @@ jogador['total'] = sum(partidas)
 print('-=' * 30)
 print(jogador)
 print('-=' * 30)
+for k, v in jogador.items():
