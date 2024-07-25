@@ -7,3 +7,4 @@ for c in range(0, tot):
 jogador['gols'] = partidas[:]
 jogador['total'] = sum(partidas)
 print('-=' * 30)
+print(jogador)
