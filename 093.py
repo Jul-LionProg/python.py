@@ -8,3 +8,4 @@ jogador['gols'] = partidas[:]
 jogador['total'] = sum(partidas)
 print('-=' * 30)
 print(jogador)
+print('-=' * 30)
