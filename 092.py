@@ -11,3 +11,6 @@ if dados['cpts'] != 0:
 print('-=' * 30)
 for k, v in dados.items():
     print(f'  - {k} tem o valor{v}')
+
+
+DESAFIO 092:
