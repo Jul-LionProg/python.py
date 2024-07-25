@@ -1,1 +1,2 @@
 jogador = dict()
+partidas = list()
