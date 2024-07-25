@@ -423,6 +423,6 @@ separados os valores pares e ímpares. No final, mostre os valores pares e ímpa
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [093:](https://github.com/Jul-LionProg/python.py/blob/main/093.py) 📕📕⬎ ⬎ ⬎**
-Crei um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. 
+|Crei um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. 
 Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso sera guardado em um dicionario, incluindo o total de gols feitos durante o campionato.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
