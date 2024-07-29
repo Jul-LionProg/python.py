@@ -15,3 +15,4 @@ while True:
     while True:
         resp = str(input('Quer continuar [S/N]? ')).upper()[0]
         if resp in 'SN':
+            break
