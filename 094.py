@@ -12,3 +12,4 @@ while True:
     pessoa['idade'] = int(input('Idade: '))
     soma += pessoa['idade']
     galera.append(pessoa.copy())
+    while True:
