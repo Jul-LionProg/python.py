@@ -9,3 +9,4 @@ while True:
     if pessoa['sexo'] in 'MF':
       break
     print('ERRO! Por favor, digite apenas M ou F.')
+pessoa['idade'] = int(input('Idade: '))
