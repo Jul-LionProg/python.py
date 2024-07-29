@@ -20,3 +20,4 @@ while True:
     if resp == 'N':
         break
 print('-=' * 30)
+print(f'A) Ao todo temos {len(galera)} pessoas cadastradas.')
