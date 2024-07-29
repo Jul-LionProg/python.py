@@ -14,3 +14,4 @@ while True:
     galera.append(pessoa.copy())
     while True:
         resp = str(input('Quer continuar [S/N]? ')).upper()[0]
+        if resp in 'SN':
