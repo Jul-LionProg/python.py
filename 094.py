@@ -13,3 +13,4 @@ while True:
     soma += pessoa['idade']
     galera.append(pessoa.copy())
     while True:
+        resp = str(input('Quer continuar [S/N]? ')).upper()[0]
