@@ -1,1 +1,2 @@
 galera = list()
+pessoa = dict()
