@@ -11,3 +11,4 @@ while True:
         print('ERRO! Por favor, digite apenas M ou F.')
     pessoa['idade'] = int(input('Idade: '))
     soma += pessoa['idade']
+    galera.append(pessoa.copy())
