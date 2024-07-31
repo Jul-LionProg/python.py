@@ -81,6 +81,7 @@
   |------------------------------------------------------------------------------------------------------------------------------------------------------|
      
 **DESAFIO [022:](https://github.com/Jul-LionProg/python.py/blob/main/022.py) 📙⬎ ⬎ ⬎**
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     Crie um programa que leia o nome completo de uma pessoa e mostre:
      O nome com todas as letras mausculas e minusculas.
      Quantas letras ao todo (sem considerar espaços).
