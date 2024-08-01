@@ -241,9 +241,8 @@
    * * No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas ja são maiores.
 
 **DESAFIO [055:](https://github.com/Jul-LionProg/python.py/blob/main/055.py) 📙⬎ ⬎ ⬎**
-   * Faça um progrma que leia o peso de cinco pessoas.
-   * No final mostre qual foi o maior e o peso menor lidos.
-
+  | Faça um progrma que leia o peso de cinco pessoas.  No final mostre qual foi o maior e o peso menor lidos.
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 **DESAFIO [056:](https://github.com/Jul-LionProg/python.py/edit/main/056.py) 📕📕📕⬎ ⬎ ⬎**
    *  Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas. No final do programa mostre:
      * * - A mediaidade de idade do grupo      - Quantidade de mulheres tem
