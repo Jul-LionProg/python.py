@@ -246,9 +246,11 @@
   | Faça um progrma que leia o peso de cinco pessoas.  No final mostre qual foi o maior e o peso menor lidos.
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 **DESAFIO [056:](https://github.com/Jul-LionProg/python.py/edit/main/056.py) 📕📕📕⬎ ⬎ ⬎**
-   *  Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas. No final do programa mostre:
-     * * - A mediaidade de idade do grupo      - Quantidade de mulheres tem
-     * * - Qual é o nome do homem mais velho   - Menos de 20 anos
+   | Desenvolva um programa que leia o nome,e idade e sexo de 4 peoosas. No final do programa mostre:
+        | A mediaidade de idade do grupo      - Quantidade de mulheres tem
+        | Qual é o nome do homem mais velho   - Menos de 20 anos
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 **DESAFIO [057:](https://github.com/Jul-LionProg/python.py/blob/main/057.py) 📙⬎ ⬎ ⬎**
    * Faça um programa que leia o sexo de uma pessoa mas so aceite os valores "M, F".
