@@ -33,3 +33,4 @@ for p in galera:
     if p['idade'] >= media:
         print('    ', end='')
         for k, v in p.items():
+            print(f'{k} = {v}; ', end='')
