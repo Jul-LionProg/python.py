@@ -37,11 +37,15 @@ for p in galera:
         print()
 print('<< ENCERRADO >>')
 
-'''
-DEFASIO 094()
-Crei um programa que leia nome, sexo e idade de varias pesssoas, guardadno os dadosd de cada pessoa em um dicionario e todos os dicionarios em uma lista. No final, mostre:
+
+
+"""
+EXERCÍCIO 094: Unindo Dicionários e Listas
+
+Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de
+cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+
 A) Quantas pessoas cadastradas.
-B) A media de idade.
+B) A média de idade.
 C) Uma lista com mulheres.
-D) uma lista com idade acima da media
-'''
+D) Uma lista com idade acima da média.
