@@ -31,3 +31,4 @@ print()
 print('D) Lista das pessoas que estao da media: ')
 for p in galera:
     if p['idade'] >= media:
+        print('    ', end='')
