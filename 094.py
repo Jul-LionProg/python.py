@@ -28,3 +28,4 @@ for p in galera:
     if p['sexo'] in 'Ff':
         print(f'{p["nome"]} ', end='')
 print()
+print('D) Lista das pessoas que estao da media: ')
