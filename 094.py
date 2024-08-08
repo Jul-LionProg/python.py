@@ -35,3 +35,4 @@ for p in galera:
         for k, v in p.items():
             print(f'{k} = {v}; ', end='')
         print()
+print('<< ENCERRADO >>')
