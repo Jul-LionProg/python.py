@@ -27,3 +27,4 @@ print('C) As mulheres cadrastradas foram ', end='')
 for p in galera:
     if p['sexo'] in 'Ff':
         print(f'{p["nome"]} ', end='')
+print()
