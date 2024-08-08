@@ -20,5 +20,5 @@ while True:
     if resp == 'N':
         break
 print('-=' * 30)
-media =  soma  / len(galera)
 print(f'A) Ao todo temos {len(galera)} pessoas cadastradas.')
+media =  soma  / len(galera)
