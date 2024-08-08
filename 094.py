@@ -34,3 +34,4 @@ for p in galera:
         print('    ', end='')
         for k, v in p.items():
             print(f'{k} = {v}; ', end='')
+        print()
