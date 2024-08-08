@@ -29,3 +29,4 @@ for p in galera:
         print(f'{p["nome"]} ', end='')
 print()
 print('D) Lista das pessoas que estao da media: ')
+for p in galera:
