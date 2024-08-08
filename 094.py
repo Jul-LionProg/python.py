@@ -25,3 +25,4 @@ media =  soma  / len(galera)
 print(f'B) A media de ideda é de {media:5.2f} anos.')
 print('C) As mulheres cadrastradas foram ', end='')
 for p in galera:
+    if p['sexo'] in 'Ff'
