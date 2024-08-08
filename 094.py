@@ -36,3 +36,12 @@ for p in galera:
             print(f'{k} = {v}; ', end='')
         print()
 print('<< ENCERRADO >>')
+
+'''
+DEFASIO 094()
+Crei um programa que leia nome, sexo e idade de varias pesssoas, guardadno os dadosd de cada pessoa em um dicionario e todos os dicionarios em uma lista. No final, mostre:
+A) Quantas pessoas cadastradas.
+B) A media de idade.
+C) Uma lista com mulheres.
+D) uma lista com idade acima da media
+'''
