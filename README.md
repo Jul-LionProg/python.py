@@ -165,10 +165,11 @@
    * * Não existe valor maior os dois são IGUAIS.
 
 **DESAFIO [039:](https://github.com/Jul-LionProg/python.py/blob/main/039.py) 📕📕⬎ ⬎ ⬎**
-   * * Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade
-   * * Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se ja passou do tempo do alistamento
-   * * Seu programa tambem devera mostra o tempo que falta ou que passou do prazo.
-  
+   | Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade
+   | Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se ja passou do tempo do alistamento
+   | Seu programa tambem devera mostra o tempo que falta ou que passou do prazo.
+   |----------------------------------------------------------------------------------------------------------------------------------|
+
 **DESAFIO [040:](https://github.com/Jul-LionProg/python.py/blob/main/040.py) 📕📕⬎ ⬎ ⬎**
    * Crie um programa qeu leia duas notas de um alunoa e calcule sua media mostrando uma mensagem no final de acordo co a madia atinginda:
    * * Media abaixo de 5.0: REPROVADO
