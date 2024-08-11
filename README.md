@@ -104,6 +104,7 @@
    * * Quantos vezes aparece a leia "A".
    * * Em que posição ela aparece a primeira vez.
    * * Em que posição ela aparece a última vez. 
+  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 **DESAFIO [027:](https://github.com/Jul-LionProg/python.py/blob/main/027.py) 📙⬎ ⬎ ⬎**
    * Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
